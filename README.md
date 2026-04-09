@@ -14,15 +14,15 @@ By combining all these inputs, the system provides personalized skincare recomme
 This project aims to reduce delayed diagnosis, increase awareness, and provide accessible dermatological support, especially in remote and underserved areas.
 
 #  Experiment Results
-Step 1: Upload image, Disease classification
+# Step 1: Upload image, Disease classification
 <img width="1902" height="923" alt="image" src="https://github.com/user-attachments/assets/f5122908-35e5-4012-9963-cccd02e47516" />
 
-Step 2: Disease-based symptom questionnaires and personalised questionnaires
+# Step 2: Disease-based symptom questionnaires and personalised questionnaires
 <img width="1888" height="969" alt="image" src="https://github.com/user-attachments/assets/075d6558-7632-4dc2-8a69-7c0d2a79ada5" />
 
-Step 3: Severity Level, Personalised Recommendations
-Case 1:
+# Step 3: Severity Level, Personalised Recommendations
+# Case 1:
 <img width="1862" height="926" alt="image" src="https://github.com/user-attachments/assets/7948ea7a-5d44-411f-be2b-04c9e51f5022" />
 
-Case 2: Unseen Conditions
+# Case 2: Unseen Conditions
 <img width="1500" height="687" alt="image" src="https://github.com/user-attachments/assets/c0878f39-2955-45c4-9977-0b6faf19deaf" />
