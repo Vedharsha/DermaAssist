@@ -1,0 +1,7 @@
+streamlit== 1.49.1 
+torch== 2.10.0+cpu 
+torchvision== 0.25.0+cpu 
+Pillow== 11.3.0 
+numpy== 2.2.6 
+streamlit-cropper == 0.3.1 
+# for train_model.ipynb it has it own version of package in kaggle notebook 
