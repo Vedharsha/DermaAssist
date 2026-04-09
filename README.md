@@ -13,6 +13,39 @@ By combining all these inputs, the system provides personalized skincare recomme
 
 This project aims to reduce delayed diagnosis, increase awareness, and provide accessible dermatological support, especially in remote and underserved areas.
 
+## Training (`train_model.py`) — Kaggle Notebook (GPU T4×2)
+
+1. Go to [kaggle.com](https://www.kaggle.com) → **Create Notebook** → Upload `train_model.py`
+2. Set **Accelerator** → `GPU T4×2` in the right sidebar
+3. Add the dataset: search and add `skindiseasedataset`
+4. Add this at the top of the notebook and run:
+   ```python
+   !pip install albumentations opencv-python-headless
+   ```
+5. Click **Run All**
+6. Download the output `trained_model.pth` from `/kaggle/working/`
+
+---
+
+## Running the App (`main.py`) — VSCode (Python 3.10.0)
+
+Place these files in the same folder:
+```
+main.py
+trained_model.pth          ← downloaded from Kaggle
+disease_symptoms.json
+disease_recommendations.json
+```
+
+Then in the terminal:
+```bash
+pip install -r requirements.txt
+streamlit run main.py
+```
+
+App opens at `http://localhost:8501`
+
+
 #  Experiment Results
 # Step 1: Upload image, Disease classification
 <img width="1902" height="923" alt="image" src="https://github.com/user-attachments/assets/f5122908-35e5-4012-9963-cccd02e47516" />
