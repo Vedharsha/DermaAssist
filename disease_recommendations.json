@@ -1,0 +1,2838 @@
+{
+  "Acne": {
+    "description": "Acne vulgaris - chronic inflammatory pilosebaceous disorder",
+    "Mild": {
+      "immediate_care": [
+        "Commence twice-daily facial cleansing with non-comedogenic cleanser (pH 4.5-5.5)",
+        "Initiate topical benzoyl peroxide 2.5% or salicylic acid 2% once daily",
+        "Apply non-occlusive, oil-free moisturizer post-cleansing"
+      ],
+      "medications": [
+        "Benzoyl peroxide 2.5% once daily (bacteriostatic, keratolytic)",
+        "Alternatively: Salicylic acid 2% lotion once daily (β-hydroxy acid)",
+        "If irritation develops, reduce frequency to alternate days"
+      ],
+      "environmental_precautions": [
+        "Avoid occlusive cosmetics and heavy moisturizers",
+        "Use non-comedogenic sunscreen SPF 30+ daily (essential with topicals)",
+        "Minimize contact with irritants; avoid excessive face touching"
+      ],
+      "lifestyle_adjustments": [
+        "Regular sleep schedule (7-9 hours) supports skin barrier function",
+        "Reduce dairy and high-glycemic foods if triggers identified",
+        "Manage stress through proven relaxation techniques"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesions persist beyond 8-12 weeks of consistent topical therapy",
+        "If inflammation worsens or signs of secondary infection appear",
+        "For evaluation if nodular or cystic components develop"
+      ],
+      "warnings": []
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Initiate combination therapy: benzoyl peroxide + topical retinoid",
+        "Cleanse twice daily with gentle, non-irritating cleanser",
+        "Schedule dermatology consultation within 2-3 weeks"
+      ],
+      "medications": [
+        "Benzoyl peroxide 5-10% once daily (bacteriostatic agent)",
+        "Topical retinoid (tretinoin 0.025%, adapalene 0.1%, or tazarotene 0.05%) at bedtime",
+        "Start retinoid 2-3 times weekly, titrate frequency as tolerance permits",
+        "Consider oral antibiotics (doxycycline 100mg daily) if widespread comedones",
+        "Benzoyl peroxide + retinoid combination minimizes antibiotic resistance"
+      ],
+      "environmental_precautions": [
+        "Avoid direct sunlight 4 hours post-retinoid application",
+        "Use broad-spectrum SPF 50+ daily (retinoids increase photosensitivity)",
+        "Eliminate all occlusive products; verify comedogenicity ratings"
+      ],
+      "lifestyle_adjustments": [
+        "Dietary modification: reduce simple carbohydrates, dairy, and omega-6 fats",
+        "Sleep optimization: 7-8 hours nightly enhances skin barrier recovery",
+        "Stress management crucial; consider cognitive behavioral approaches"
+      ],
+      "when_to_seek_medical_attention": [
+        "If no improvement after 6-8 weeks of combination therapy",
+        "For evaluation of oral antibiotic responsiveness at 3 months",
+        "If signs of severe nodular acne or post-inflammatory hyperpigmentation"
+      ],
+      "warnings": [
+        "Retinoid: teratogenic; ensure contraception if reproductive age",
+        "Retinoid: expect initial 2-4 week purging phase with increased breakouts"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent dermatology referral required within 48-72 hours",
+        "Do not delay: assess for candidacy for isotretinoin (Accutane)",
+        "Initiate aggressive anti-inflammatory measures immediately"
+      ],
+      "medications": [
+        "Consider isotretinoin (0.5-1 mg/kg/day) for nodular/cystic acne with scarring risk",
+        "Alternative: Oral antibiotics (doxycycline or minocycline 100mg daily) + topical retinoid + benzoyl peroxide",
+        "Add oral contraceptives if female (improves hormonal acne)",
+        "Spironolactone 50-100mg daily if androgenic component suspected",
+        "Topical benzoyl peroxide 10% + tretinoin 0.05% at bedtime"
+      ],
+      "environmental_precautions": [
+        "Strict photoprotection: SPF 50+ mineral-based sunscreen, reapply q2h",
+        "Avoid all occlusive cosmetics and fragranced products",
+        "Consider physical sun protection (wide-brimmed hat, lightweight clothing)"
+      ],
+      "lifestyle_adjustments": [
+        "Low-glycemic index diet; eliminate dairy completely for 8-12 weeks trial",
+        "Sleep: 8+ hours nightly; optimize sleep quality",
+        "Stress reduction: consider psychotherapy given psychological impact"
+      ],
+      "when_to_seek_medical_attention": [
+        "URGENT if signs of systemic inflammation (fever, lymphadenopathy)",
+        "If isotretinoin initiated: monthly dermatology follow-up mandatory",
+        "For evaluation of depressive symptoms (isotretinoin-associated mood changes)"
+      ],
+      "warnings": [
+        "Isotretinoin: absolute contraindication in pregnancy; iPLEDGE program mandatory",
+        "Isotretinoin: monthly lab monitoring (LFTs, lipids, pregnancy test)",
+        "Risk of severe scarring if untreated; early aggressive intervention critical"
+      ]
+    }
+  },
+  "Melanoma": {
+    "description": "Basal Cell Carcinoma - most common skin cancer, low metastatic potential but locally invasive",
+    "Mild": {
+      "immediate_care": [
+        "URGENT: Excisional biopsy with 4-6mm margins within 1-2 weeks",
+        "Histological confirmation mandatory before definitive treatment",
+        "Do not delay; assess Mohs micrographic surgery candidacy (especially face/critical areas)"
+      ],
+      "medications": [
+        "Surgical excision with 4mm margins (non-Mohs standard); 95% cure rate",
+        "Mohs micrographic surgery if: face, ear, nose, periocular, hands, feet (optimal cosmetic outcome)",
+        "Histopathological type assessment: nodular, superficial, or infiltrative (infiltrative requires wider margins)"
+      ],
+      "environmental_precautions": [
+        "Strict photoprotection: SPF 50+ mineral sunscreen daily, reapply q2 hours",
+        "Avoid sun 10 AM - 4 PM; wear protective clothing (wide-brimmed hat, long sleeves)",
+        "Monthly self-skin examination; photograph lesion for surveillance"
+      ],
+      "lifestyle_adjustments": [
+        "Smoking cessation if applicable",
+        "Vitamin D supplementation (cholecalciferol 1000-2000 IU daily)",
+        "Stress management: cancer diagnosis carries psychological burden"
+      ],
+      "when_to_seek_medical_attention": [
+        "Post-operative: if signs of infection (purulence, erythema, warmth)",
+        "Annual dermatology surveillance indefinitely; increased risk of second BCC"
+      ],
+      "warnings": [
+        "CRITICAL: Excision/Mohs surgery mandatory; no topical treatments effective",
+        "Cure rates 90-95% with appropriate surgical management; delay increases morbidity"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "STAT: Excisional biopsy or Mohs micrographic surgery within 48-72 hours",
+        "Histological subtype determination critical: infiltrative pattern requires aggressive treatment",
+        "Assess for perineural invasion or deep invasion (risk factors for recurrence)"
+      ],
+      "medications": [
+        "Mohs micrographic surgery strongly recommended (95-99% cure vs 90-95% standard excision)",
+        "Standard excision: 6mm margins if nodular; 8-10mm if infiltrative pattern",
+        "Post-operative: imiquimod 5% cream if surgical margins inadequate (5x weekly x 6 weeks alternative)"
+      ],
+      "environmental_precautions": [
+        "Complete photoprotection: SPF 50+ mineral sunscreen q2h, protective clothing mandatory",
+        "Avoid sun entirely if possible 10 AM - 4 PM; utilize physical barriers",
+        "Monthly self-examination with photographic documentation"
+      ],
+      "lifestyle_adjustments": [
+        "Smoking cessation critical; smoking impairs wound healing and immune surveillance",
+        "Optimal nutrition to support wound healing post-surgery",
+        "Psychological support for cancer-related anxiety"
+      ],
+      "when_to_seek_medical_attention": [
+        "Post-operative wound surveillance: weekly x 4 weeks",
+        "Annual dermatology surveillance indefinitely; cumulative sun exposure increases recurrence risk",
+        "If any recurrence signs detected (growth at surgical site)"
+      ],
+      "warnings": [
+        "Infiltrative and perineural invasion patterns carry significantly higher recurrence risk",
+        "Mohs micrographic surgery preferred for locations with functional/aesthetic importance"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "EMERGENCY: Surgical consultation within 24-48 hours; assess for invasion into deeper structures",
+        "Consider staging imaging if invasion into underlying tissues/bone suspected",
+        "Wide local excision (>10mm margins) or Mohs micrographic surgery urgent"
+      ],
+      "medications": [
+        "Mohs micrographic surgery STRONGLY RECOMMENDED (highest cure rate 99%)",
+        "If bone/cartilage involvement: consider Mohs followed by reconstruction with skin graft/flap",
+        "Adjuvant radiation therapy if margins inadequate or extensive perineural invasion"
+      ],
+      "environmental_precautions": [
+        "Obsessive photoprotection: SPF 50+ mineral sunscreen q60-90 minutes",
+        "Complete avoidance of sun 10 AM - 4 PM; utilize sun-protective garments",
+        "Monthly self-examination; consider photography for surveillance"
+      ],
+      "lifestyle_adjustments": [
+        "Smoking cessation mandatory; impairs wound healing and immune function",
+        "Nutritional optimization: high-protein diet for post-operative healing",
+        "Mental health support essential; extensive surgery may impact body image"
+      ],
+      "when_to_seek_medical_attention": [
+        "Post-operative surveillance: weekly x 8 weeks, then monthly x 3 months",
+        "Quarterly dermatology surveillance for first 2 years, then annual indefinitely",
+        "IMMEDIATELY if signs of recurrence or new lesions develop"
+      ],
+      "warnings": [
+        "Deep invasion, bone/cartilage involvement increases morbidity significantly",
+        "Adjuvant radiation may be necessary; discuss with radiation oncologist",
+        "High recurrence risk; intensive long-term surveillance non-negotiable"
+      ]
+    }
+  },
+  "Eczema": {
+    "description": "Atopic dermatitis - chronic inflammatory condition with impaired skin barrier",
+    "Mild": {
+      "immediate_care": [
+        "Optimize skin barrier function: apply ceramide-based moisturizer within 3 minutes of bathing",
+        "Identify and eliminate specific allergen/irritant triggers through systematic elimination",
+        "Use fragrance-free, dye-free emollients (CeraVe, Eucerin, Aveeno Eczema Therapy)"
+      ],
+      "medications": [
+        "Topical corticosteroid (hydrocortisone 1% or triamcinolone 0.1%) once daily for acute flares",
+        "Maintain skin barrier: ceramide-enriched moisturizer twice daily",
+        "Consider tacrolimus 0.03% ointment as steroid-sparing alternative for sensitive areas"
+      ],
+      "environmental_precautions": [
+        "Avoid identified triggers: harsh soaps, fragrances, sulfates, lanolin, wool",
+        "Use only fragrance-free, pH-neutral cleansers",
+        "Maintain environmental humidity 30-50%; consider humidifier in dry climates"
+      ],
+      "lifestyle_adjustments": [
+        "Bathing: lukewarm water (not hot) for 5-10 minutes maximum",
+        "Pat dry gently (not rubbing); apply moisturizer immediately to damp skin",
+        "Dietary assessment: consider elimination diet if food triggers suspected (dairy, eggs, nuts, wheat)"
+      ],
+      "when_to_seek_medical_attention": [
+        "If flares worsen despite barrier optimization within 2 weeks",
+        "For signs of secondary bacterial infection (purulence, fever, lymphadenopathy)",
+        "If significant sleep disruption or quality-of-life impact"
+      ],
+      "warnings": [
+        "Allergen avoidance essential; relapse likely with trigger re-exposure",
+        "Long-term topical corticosteroid use risks skin atrophy; limit to affected areas, shortest duration"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Aggressive barrier repair: ceramide/colloidal oatmeal-based moisturizer application q4-6h",
+        "Identify specific allergen triggers through history and patch testing if unclear",
+        "Initiate topical corticosteroid (mometasone 0.1% or fluticasone 0.005%) twice daily for 1-2 weeks"
+      ],
+      "medications": [
+        "Topical corticosteroid: mometasone furoate 0.1% ointment twice daily x 1-2 weeks, then taper",
+        "Topical calcineurin inhibitor (tacrolimus 0.1% ointment or pimecrolimus 1% cream) as maintenance",
+        "Consider antihistamine (cetirizine 10mg daily) if pruritus severely impacts sleep",
+        "Oral antibiotics if signs of secondary infection (cephalexin 500mg QID x 7 days)"
+      ],
+      "environmental_precautions": [
+        "Strict allergen avoidance: eliminate identified triggers completely",
+        "Humidification: maintain 40-60% relative humidity; use humidifier in dry environments",
+        "Avoid occlusive clothing; wear cotton or silk undergarments",
+        "Laundry: use hypoallergenic detergent (free & clear, ALL free), extra rinse cycle"
+      ],
+      "lifestyle_adjustments": [
+        "Sleep optimization critical; severe pruritus may require antihistamine for sleep maintenance",
+        "Stress management: stress-induced exacerbations common; consider cognitive behavioral therapy",
+        "Dietary modification: eliminate suspected triggers (milk, eggs, peanuts, tree nuts, shellfish if atopic history)"
+      ],
+      "when_to_seek_medical_attention": [
+        "If inadequate response to topical therapy within 2-3 weeks; consider systemic steroids",
+        "For signs of widespread involvement or severe pruritus affecting function",
+        "If secondary infection suspected or present (requires antibiotic coverage)"
+      ],
+      "warnings": [
+        "Potent topical corticosteroid tachyphylaxis: rotate agents, use lowest potency",
+        "Severe cases may require systemic immunosuppression; early escalation prevents chronicity"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Consider systemic immunosuppression: dupilumab (IL-4Rα antagonist) or cyclosporine",
+        "Acute flare management: short course oral corticosteroids (prednisone 0.5-1 mg/kg daily x 7-14 days) if widespread",
+        "Barrier repair: intensive emollient therapy (petroleum jelly, ointment-based products) hourly"
+      ],
+      "medications": [
+        "Biologic therapy STRONGLY RECOMMENDED: dupilumab 600mg SC loading, then 300mg q2 weeks",
+        "Alternative: cyclosporine 3-5 mg/kg/day divided BID (requires renal function/BP monitoring)",
+        "Topical: potent corticosteroid (clobetasol 0.05%) BID for 1-2 weeks, then taper to lower potency",
+        "Topical calcineurin inhibitor (tacrolimus 0.1%) twice daily as maintenance/steroid-sparing agent",
+        "Antihistamine: hydroxyzine 25-50mg TID for severe pruritus; consider low-dose doxepin (10-25mg) at bedtime"
+      ],
+      "environmental_precautions": [
+        "Complete environmental trigger elimination; detailed allergen assessment via patch testing",
+        "Humidification: maintain 50-70% relative humidity; ultrasonic humidifier recommended",
+        "Climate: consider temporary relocation to humid environment if severe (coastal regions)",
+        "Bathing: only gentle, fragrance-free emollients; avoid all soaps and cleansers"
+      ],
+      "lifestyle_adjustments": [
+        "Sleep: critical; may require sedating antihistamine or low-dose antidepressant for sleep maintenance",
+        "Work: may require occupational modifications if environmental triggers present at workplace",
+        "Psychological support: depression/anxiety common with severe eczema; address proactively",
+        "Dietary elimination: comprehensive food allergy testing; elimination diet trial if indicated"
+      ],
+      "when_to_seek_medical_attention": [
+        "MANDATORY: Dermatology consultation within 1 week; assess biologic therapy candidacy",
+        "Monthly follow-up if systemic therapy initiated",
+        "EMERGENCY if signs of erythroderma (>80% body surface involvement) or sepsis"
+      ],
+      "warnings": [
+        "Systemic corticosteroids should be SHORT-TERM ONLY; chronic use contraindicated",
+        "Dupilumab: monitor for conjunctivitis (20-40% incidence); manage with antihistamines/topical steroids",
+        "Cyclosporine: requires regular monitoring (BP, renal function, LFTs); baseline ophthalmology exam"
+      ]
+    }
+  },
+  "Psoriasis": {
+    "description": "Psoriasis vulgaris - chronic immune-mediated inflammatory dermatosis",
+    "Mild": {
+      "immediate_care": [
+        "Gentle emollient therapy: apply thick moisturizer (Eucerin, CeraVe) immediately post-bathing",
+        "Initiate topical corticosteroid (triamcinolone 0.1% or fluticasone 0.005%) once daily",
+        "Address triggering factors: stress reduction, infection prevention, medication review"
+      ],
+      "medications": [
+        "Topical corticosteroid: fluticasone propionate 0.005% cream once daily (low potency, minimal systemic absorption)",
+        "Keratolytic agent: salicylic acid 2% or urea 20% to facilitate scale removal",
+        "Topical vitamin D analogue (calcitriol 3 mcg/g) as adjunctive or steroid-sparing agent",
+        "Emollient: ceramide-rich moisturizer BID-TID (CeraVe, Aveeno, Eucerin Eczema)"
+      ],
+      "environmental_precautions": [
+        "Stress reduction: meditation, yoga, or psychotherapy (stress-induced exacerbations common)",
+        "Sun exposure: controlled UVB exposure beneficial; limit to 15-20 minutes daily initially",
+        "Avoid triggers: beta-blockers, NSAIDs, abrupt corticosteroid withdrawal",
+        "Humidity: maintain 40-60% relative humidity; humidifier in dry climates"
+      ],
+      "lifestyle_adjustments": [
+        "Sleep: 7-9 hours nightly; poor sleep exacerbates psoriasis",
+        "Infection prevention: prompt treatment of streptococcal infections (guttate psoriasis risk)",
+        "Alcohol avoidance: ethanol consumption associated with flare exacerbation",
+        "Weight management: obesity associated with increased severity; consider gradual weight reduction"
+      ],
+      "when_to_seek_medical_attention": [
+        "If inadequate response to topical therapy within 4-6 weeks",
+        "For evaluation of nail involvement or arthropathy signs",
+        "If widespread involvement develops (>10% BSA)"
+      ],
+      "warnings": [
+        "Abrupt corticosteroid withdrawal may precipitate rebound flare or pustular psoriasis",
+        "Taper topical corticosteroids gradually; use lowest potency for prolonged therapy"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Initiate combination topical therapy: potent corticosteroid + vitamin D analogue",
+        "Consider phototherapy (narrowband UVB) if extensive trunk/extremity involvement",
+        "Address systemic triggering factors: infections, stress, medications"
+      ],
+      "medications": [
+        "Topical corticosteroid: mometasone furoate 0.1% or clobetasol 0.05% twice daily x 2 weeks, then taper",
+        "Vitamin D analogue: calcipotriene 0.005% ointment once daily as maintenance/steroid-sparing",
+        "Keratolytic: salicylic acid 3% or urea 40% cream for scale removal",
+        "Phototherapy: narrowband UVB (311 nm) 3x weekly if extensive involvement (>10-15% BSA)"
+      ],
+      "environmental_precautions": [
+        "Comprehensive stress reduction program: CBT, mindfulness, exercise",
+        "Infection prevention: monitor for streptococcal throat infections; prompt antibiotic treatment",
+        "Medication review: discontinue beta-blockers if feasible; avoid NSAIDs",
+        "Climate: sun exposure beneficial; 15-30 minutes daily UVB exposure recommended"
+      ],
+      "lifestyle_adjustments": [
+        "Sleep optimization: melatonin or short-acting sleep aid if insomnia present",
+        "Alcohol cessation: complete avoidance if psoriasis-alcohol association identified",
+        "Weight loss: gradual reduction if overweight; target BMI 18.5-24.9",
+        "Dietary modification: consider Mediterranean diet or low-inflammatory approach"
+      ],
+      "when_to_seek_medical_attention": [
+        "If inadequate response to combination topical therapy within 6-8 weeks",
+        "For phototherapy assessment if topical therapy alone insufficient",
+        "For evaluation of systemic involvement: arthropathy, nail disease, metabolic syndrome"
+      ],
+      "warnings": [
+        "Potent topical corticosteroid: risk of HPA axis suppression with extensive use; limit duration",
+        "Phototherapy: increased melanoma risk with prolonged cumulative UVB exposure; monitor for new lesions"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "URGENT: Dermatology/rheumatology consultation for systemic immunosuppression assessment",
+        "Consider hospitalization if erythrodermic or pustular psoriasis (sepsis/dehydration risk)",
+        "Initiate biologic therapy or systemic retinoid depending on clinical subtype"
+      ],
+      "medications": [
+        "Biologic agent PREFERRED: TNF-alpha inhibitor (adalimumab 40mg q2 weeks) or IL-17 inhibitor (secukinumab 300mg weekly x4, then 300mg q4 weeks)",
+        "Alternative: IL-23 inhibitor (risankizumab 150mg SC x2 doses 4 weeks apart, then q8 weeks)",
+        "Systemic retinoid: acitretin 0.5-1 mg/kg daily (highly effective but teratogenic; requires contraception)",
+        "Methotrexate: 15-25 mg weekly (with folic acid 1mg daily) if biologics contraindicated",
+        "Phototherapy: intensive narrowband UVB (3x weekly) or PUVA (psoralen + UVA) concurrently"
+      ],
+      "environmental_precautions": [
+        "Intensive stress management: professional counseling given significant psychological impact",
+        "Complete alcohol and tobacco cessation mandatory",
+        "Climate consideration: phototherapy/sunlight exposure accelerates clearing",
+        "Infection prevention: monitor closely; infections may precipitate pustular conversion"
+      ],
+      "lifestyle_adjustments": [
+        "Sleep: optimize sleep; sedating antihistamine or low-dose amitriptyline if insomnia",
+        "Occupation: consider job modification if work stress identified as trigger",
+        "Dietary: comprehensive elimination diet; dairy, wheat, nightshades trial elimination",
+        "Exercise: regular moderate-intensity aerobic activity; weight management critical"
+      ],
+      "when_to_seek_medical_attention": [
+        "MANDATORY: Dermatology follow-up q4-6 weeks during biologic titration phase",
+        "EMERGENCY if fever, widespread erythema, or pustular conversion (systemic complications risk)",
+        "For monitoring of metabolic syndrome (psoriasis-associated CVD risk)"
+      ],
+      "warnings": [
+        "Biologic therapy: increased infection risk; monitor for TB, opportunistic infections",
+        "Acitretin: absolute teratogen; pregnancy must be absolutely prevented; 2-year washout required",
+        "TNF-alpha inhibitors: increased lymphoma risk; long-term surveillance mandatory"
+      ]
+    }
+  },
+  "Herpes Simplex": {
+    "description": "Herpes simplex virus (HSV-1/-2) - recurrent viral infection with vesicular eruption",
+    "Mild": {
+      "immediate_care": [
+        "Initiate topical antiviral within 24-48 hours of prodromal symptoms for optimal efficacy",
+        "Apply acyclovir 5% cream or penciclovir 1% cream to affected area 5-6 times daily",
+        "Systemic antiviral indicated ONLY if first episode (acyclovir 400mg PO 5x daily x 7-10 days)"
+      ],
+      "medications": [
+        "First episode: acyclovir 400-800mg orally 5x daily x 7-10 days, or valacyclovir 1000mg TID x 7-10 days",
+        "Recurrent: topical acyclovir 5% or penciclovir 1% cream 5-6x daily x 4-5 days",
+        "Analgesia: acetaminophen 650mg or ibuprofen 400mg q4-6h for vesicle pain"
+      ],
+      "environmental_precautions": [
+        "Avoid contact with mucous membranes or abraded skin of others (highly contagious)",
+        "Do not share razors, towels, lip balms, or eating utensils during active infection",
+        "Maintain meticulous hand hygiene; avoid autoinoculation to other body areas"
+      ],
+      "lifestyle_adjustments": [
+        "Rest: allow adequate recovery time; fatigue exacerbates viral replication",
+        "Stress management: psychological stress major trigger for recurrence",
+        "Sleep optimization: 7-9 hours nightly supports immune function"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesions do not heal within 10-14 days; consider systemic antiviral escalation",
+        "For frequent recurrences (>6 per year); consider suppressive therapy"
+      ],
+      "warnings": [
+        "First episode typically more severe; may have systemic symptoms (fever, malaise, lymphadenopathy)"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Initiate systemic antiviral immediately if recurrent episode or first episode",
+        "Acyclovir 400mg PO 5x daily or valacyclovir 1000mg TID for 7-10 days",
+        "Apply topical anesthetic (benzocaine 20%) if pain severely compromises function"
+      ],
+      "medications": [
+        "Valacyclovir 1000mg TID x 10 days (better bioavailability than acyclovir)",
+        "Alternative: acyclovir 800mg 5x daily x 7-10 days",
+        "Pain management: topical benzocaine 20%, oral acetaminophen 650mg, or ibuprofen 400mg q4-6h"
+      ],
+      "environmental_precautions": [
+        "Complete contagion precautions: avoid direct contact with lesions",
+        "For genital herpes: abstain from sexual contact during active infection",
+        "Hygiene: separate hand towel; meticulous hand hygiene after lesion contact"
+      ],
+      "lifestyle_adjustments": [
+        "Trigger avoidance: identify personal triggers (stress, menstrual cycle, sexual intercourse)",
+        "Stress reduction: meditation, yoga, psychotherapy if frequent triggers identified",
+        "Sleep: prioritize 7-9 hours nightly during acute episode and regularly"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesions persist beyond 14 days despite antiviral therapy",
+        "For suppressive therapy assessment if recurrences frequent or severe"
+      ],
+      "warnings": [
+        "Antiviral efficacy highest within 24-48 hours of symptom onset; early treatment critical",
+        "Secondary bacterial infection risk if lesions scratched; avoid manipulation"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Consider hospitalization if extensive cutaneous involvement (erythema multiforme risk) or systemic symptoms",
+        "IV acyclovir 10 mg/kg IV q8h if disseminated cutaneous disease or CNS involvement suspected",
+        "Ophthalmology consultation if ocular involvement (keratitis risk)"
+      ],
+      "medications": [
+        "Hospitalization: IV acyclovir 10 mg/kg IV q8h x 7-14 days for disseminated disease",
+        "Outpatient: valacyclovir 1000mg PO TID x 10 days or acyclovir 800mg PO 5x daily x 10 days",
+        "Pain management: tramadol 50-100mg q4-6h or morphine if severe neuropathic pain",
+        "Suppressive therapy: valacyclovir 500mg daily indefinitely to prevent recurrences"
+      ],
+      "environmental_precautions": [
+        "Strict contact precautions: avoid all direct contact with lesions",
+        "For genital herpes: absolute sexual abstinence during active infection; disclosure to partners recommended",
+        "Healthcare worker considerations: temporary reassignment if extensive hand/finger involvement"
+      ],
+      "lifestyle_adjustments": [
+        "Comprehensive stress reduction: professional psychological support if stress-triggered",
+        "Sleep optimization: consider low-dose sedating antidepressant (amitriptyline 10-25mg) if insomnia present",
+        "Lifestyle modification: identify and eliminate all identified triggers"
+      ],
+      "when_to_seek_medical_attention": [
+        "URGENT: if fever, meningismus, or neurological symptoms (CNS involvement)",
+        "For ophthalmology consultation if eye involvement",
+        "Frequent specialist follow-up if disseminated disease or complications"
+      ],
+      "warnings": [
+        "Disseminated cutaneous HSV carries risk of erythema multiforme or visceral involvement",
+        "IV acyclovir required for severe/disseminated disease; significant CNS penetration essential",
+        "Long-term suppressive therapy may be necessary for frequent recurrences"
+      ]
+    }
+  },
+  "Vitiligo": {
+    "description": "Vitiligo - acquired depigmentation disorder due to melanocyte loss (autoimmune etiology)",
+    "Mild": {
+      "immediate_care": [
+        "Initiate potent topical corticosteroid: clobetasol propionate 0.05% ointment once daily",
+        "Apply to depigmented patches only; avoid surrounding normal skin",
+        "Use continuous application for 2-3 months, then assess response"
+      ],
+      "medications": [
+        "Topical corticosteroid: clobetasol propionate 0.05% ointment once daily to depigmented areas",
+        "Consider topical tacrolimus 0.1% ointment as steroid-sparing alternative",
+        "Combine with topical vitamin D analogue (calcitriol 3 mcg/g) for potential synergy"
+      ],
+      "environmental_precautions": [
+        "Strict photoprotection: SPF 50+ sunscreen to depigmented areas (risk of severe sunburn)",
+        "Physical barriers: sun-protective clothing for affected areas, especially face/neck",
+        "Cosmetic camouflage: DermaCatch, Microskin, or full-coverage foundations for cosmetic concerns"
+      ],
+      "lifestyle_adjustments": [
+        "Thyroid function assessment: test TSH annually (autoimmune thyroid disease associated in 30%)",
+        "Vitamin B12 assessment: supplementation if deficient (pernicious anemia associated)",
+        "Sun exposure: avoid unnecessary exposure; depigmented areas at severe sunburn risk"
+      ],
+      "when_to_seek_medical_attention": [
+        "If inadequate response to topical therapy within 3-4 months",
+        "For phototherapy assessment (narrowband UVB) if extensive or progressive"
+      ],
+      "warnings": [
+        "Topical corticosteroid: tachyphylaxis develops with prolonged use; cyclical application recommended",
+        "Photosensitivity significant in depigmented areas; aggressive sun protection essential"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Initiate combination therapy: potent topical corticosteroid + topical calcineurin inhibitor + phototherapy",
+        "Consider narrowband UVB phototherapy (311 nm) 2-3x weekly",
+        "Topical corticosteroid: mometasone 0.1% or clobetasol 0.05% daily to patches"
+      ],
+      "medications": [
+        "Topical corticosteroid: mometasone furoate 0.1% cream once daily",
+        "Topical calcineurin inhibitor: tacrolimus 0.1% ointment once daily as steroid-sparing agent",
+        "Vitamin D analogue: calcipotriene 0.005% ointment once daily for additive effect",
+        "Phototherapy: narrowband UVB 311 nm, 2-3x weekly; excellent response rates with combination therapy"
+      ],
+      "environmental_precautions": [
+        "Obsessive photoprotection: SPF 50+ mineral sunscreen q2h to depigmented areas",
+        "Protective clothing: wide-brimmed hat, long sleeves, UV-protective fabrics",
+        "Cosmetic: consider professional application of full-coverage foundations (Dermablend, Microskin)"
+      ],
+      "lifestyle_adjustments": [
+        "Comprehensive thyroid assessment: TSH, free T4, TPO antibodies annually",
+        "Nutritional assessment: B12, folate, iron levels; supplement if deficient",
+        "Psychosocial support: depression/anxiety common given cosmetic concerns; consider counseling"
+      ],
+      "when_to_seek_medical_attention": [
+        "If inadequate response to combination therapy within 4-6 months",
+        "For systemic therapy assessment (JAK inhibitors emerging data) if extensive involvement",
+        "Ophthalmology referral: assess for ocular involvement (rare but possible)"
+      ],
+      "warnings": [
+        "Phototherapy: ensure baseline ophthalmology exam; monitor for cataracts with prolonged UVB exposure",
+        "Systemic manifestations: monitor for autoimmune thyroid disease, pernicious anemia"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Consider systemic JAK inhibitor therapy (ruxolitinib) - emerging evidence for efficacy",
+        "Intensive phototherapy: narrowband UVB 3x weekly + topical combination therapy",
+        "Assess for depigmentation affecting >30% BSA; consider depigmentation therapy alternative if >50% BSA"
+      ],
+      "medications": [
+        "JAK inhibitor: ruxolitinib 15-20% cream topical (FDA-approved 2022); apply daily to patches",
+        "Systemic JAK inhibitor: baricitinib 2-4mg daily or tofacitinib 5mg BID if extensive (emerging evidence)",
+        "Phototherapy: narrowband UVB 311 nm, 3x weekly + excimer laser (308 nm) to individual patches",
+        "Topical: clobetasol 0.05% ointment + tacrolimus 0.1% + vitamin D analogue combination"
+      ],
+      "environmental_precautions": [
+        "Complete cosmetic management: professional full-coverage foundation application or tattooing",
+        "Protective clothing: cover exposed depigmented areas; UV-protective fabrics essential",
+        "Cosmetic tattooing: consider intradermal pigmentation for periorbital/lip vitiligo"
+      ],
+      "lifestyle_adjustments": [
+        "Intensive psychosocial support: depression/body dysmorphia common; professional counseling recommended",
+        "Comprehensive metabolic workup: thyroid, B12, folate, iron; supplement aggressively if deficient",
+        "Support groups: vitiligo support organizations provide psychological peer support"
+      ],
+      "when_to_seek_medical_attention": [
+        "MANDATORY: Systemic therapy assessment if extensive (>30% BSA) or rapidly progressive",
+        "Regular phototherapy monitoring: ophthalmology exam q6-12 months",
+        "Dermatology surveillance: evaluate treatment response q2-3 months"
+      ],
+      "warnings": [
+        "JAK inhibitors: increased infection risk; monitor for TB, opportunistic infections",
+        "Phototherapy: cumulative UVB exposure increases melanoma risk; lifetime monitoring essential",
+        "Extensive vitiligo carries psychological morbidity; mental health support non-negotiable"
+      ]
+    }
+  },
+  "Basal Cell Carcinoma": {
+    "description": "Most common skin cancer; locally invasive, rarely metastasises",
+    "Mild": {
+      "immediate_care": [
+        "Urgent dermatology referral within 1–2 weeks for biopsy confirmation",
+        "Photograph and document lesion borders, size, and colour changes",
+        "Avoid sun exposure to the affected site; cover with breathable dressing"
+      ],
+      "medications": [
+        "Topical imiquimod 5% cream (for superficial BCC) — apply 5 days/week for 6 weeks",
+        "Topical fluorouracil 5% cream as alternative for superficial lesions",
+        "No OTC medications substitute for surgical or specialist treatment"
+      ],
+      "environmental_precautions": [
+        "Strict photoprotection: broad-spectrum SPF 50+ mineral sunscreen, reapply every 2 hours",
+        "Wear UPF 50+ protective clothing and wide-brim hat outdoors",
+        "Avoid peak UV hours (10 AM – 4 PM); seek shade whenever possible"
+      ],
+      "lifestyle_adjustments": [
+        "Self-examination monthly for new or changing lesions",
+        "Annual full-body skin checks with a dermatologist",
+        "Avoid tanning beds completely; they significantly increase BCC risk"
+      ],
+      "when_to_seek_medical_attention": [
+        "Immediately if lesion bleeds spontaneously or grows rapidly",
+        "If a pearly, translucent, or ulcerated lesion appears anywhere on the body",
+        "Do not delay dermatology referral — early excision is curative"
+      ],
+      "warnings": [
+        "BCC is a malignancy — do not treat with home remedies or delay specialist review",
+        "Immunosuppressed patients have higher recurrence rates; vigilant monitoring essential"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Expedite dermatology referral within days; surgical excision likely indicated",
+        "Avoid trauma to lesion; keep area clean and covered",
+        "Document any recent growth, colour change, or new satellite lesions"
+      ],
+      "medications": [
+        "Post-excision: topical antibiotic ointment (mupirocin 2%) to surgical site",
+        "Vismodegib (Hedgehog pathway inhibitor) for locally advanced cases — specialist only",
+        "Adequate analgesia post-procedure as directed by surgeon"
+      ],
+      "environmental_precautions": [
+        "Strict sun avoidance and SPF 50+ application daily",
+        "Avoid chemical irritants and fragranced products around lesion site",
+        "Air-conditioned environments recommended during high UV index days"
+      ],
+      "lifestyle_adjustments": [
+        "Smoking cessation — tobacco impairs wound healing post-excision",
+        "Balanced diet rich in antioxidants (vitamins C, E, beta-carotene)",
+        "Psychological support may be beneficial given cancer diagnosis"
+      ],
+      "when_to_seek_medical_attention": [
+        "Immediately if signs of local spread (satellite nodules, lymph node swelling)",
+        "If wound post-excision shows signs of infection (redness, pus, fever)",
+        "Follow scheduled dermatology reviews without delay"
+      ],
+      "warnings": [
+        "Moderate BCC requires surgical excision — topical therapy alone insufficient",
+        "High recurrence zones: nose, ears, lips, eyelids — require Mohs surgery"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency referral to dermatological oncology within 24–48 hours",
+        "Multidisciplinary team (MDT) assessment for surgical planning",
+        "CT/MRI imaging if perineural or bone invasion suspected"
+      ],
+      "medications": [
+        "Vismodegib 150mg daily or sonidegib 200mg daily (Hedgehog inhibitors) for inoperable BCC",
+        "Cemiplimab (PD-1 inhibitor) for locally advanced or metastatic BCC — oncologist directed",
+        "Systemic analgesia for pain management as prescribed"
+      ],
+      "environmental_precautions": [
+        "Complete avoidance of UV exposure; indoor sun protection still required (window UV)",
+        "Environmental triggers of immunosuppression to be minimised",
+        "Wound care and infection prevention protocols post-surgery"
+      ],
+      "lifestyle_adjustments": [
+        "Nutritional optimisation to support surgical recovery and immune function",
+        "Multidisciplinary psychological and oncology support",
+        "Strict smoking and alcohol cessation"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any new neurological symptoms (numbness, facial weakness) — perineural spread",
+        "Systemic symptoms: unexplained weight loss, fatigue — rare metastasis",
+        "All follow-up appointments are mandatory"
+      ],
+      "warnings": [
+        "Severe BCC may require Mohs micrographic surgery, radiation, or systemic therapy",
+        "Metastatic BCC is rare but life-threatening; immediate oncology involvement essential"
+      ]
+    }
+  },
+  "Benign tumors": {
+    "description": "Non-cancerous skin growths including lipomas, fibromas, and sebaceous cysts",
+    "Mild": {
+      "immediate_care": [
+        "Observe and monitor lesion size, shape, and colour over time",
+        "Photograph lesion monthly to track any changes",
+        "Dermatology review if uncertain about benign nature"
+      ],
+      "medications": [
+        "No pharmacological treatment typically required for benign growths",
+        "Topical retinoids may reduce sebaceous hyperplasia if cosmetically bothersome",
+        "Intralesional corticosteroid injection for symptomatic lipomas — specialist only"
+      ],
+      "environmental_precautions": [
+        "Protect lesion from friction, trauma, and repeated pressure",
+        "Use SPF 30+ if lesion is sun-exposed to prevent UV-induced changes",
+        "Keep area clean and dry to prevent secondary infection"
+      ],
+      "lifestyle_adjustments": [
+        "Regular skin self-examination to detect any change in existing growths",
+        "Avoid squeezing or manipulating growths — risk of infection",
+        "Annual dermatology review for monitoring"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesion rapidly increases in size, changes colour, or bleeds spontaneously",
+        "If uncertain whether growth is benign — biopsy provides definitive diagnosis",
+        "If causing pain, functional limitation, or significant cosmetic distress"
+      ],
+      "warnings": []
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Schedule dermatology consultation for formal assessment and possible excision",
+        "Avoid self-removal attempts — risk of infection and scarring",
+        "Document all symptomatic changes with photographs"
+      ],
+      "medications": [
+        "Post-excision wound care: topical antibiotic ointment and non-adherent dressing",
+        "NSAIDs (ibuprofen 400mg) for post-procedural discomfort",
+        "Silicone gel sheeting post-excision to minimise scarring"
+      ],
+      "environmental_precautions": [
+        "Protect surgical site from sun exposure during healing (SPF 50+ or physical cover)",
+        "Avoid swimming pools or open water until wound fully healed"
+      ],
+      "lifestyle_adjustments": [
+        "Keep surgical site elevated if on extremity to reduce swelling",
+        "Maintain optimal nutrition (protein, vitamin C) to support wound healing"
+      ],
+      "when_to_seek_medical_attention": [
+        "Signs of wound infection: increasing redness, warmth, swelling, or discharge",
+        "Suture concerns or wound dehiscence post-excision"
+      ],
+      "warnings": [
+        "Some benign tumours (e.g. atypical lipoma) have malignant potential — histopathology required"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent surgical evaluation for rapidly enlarging or symptomatic growths",
+        "Imaging (ultrasound or MRI) to assess depth and vascular involvement",
+        "MDT assessment if malignant transformation suspected"
+      ],
+      "medications": [
+        "Specialist-directed pharmacotherapy post-surgical intervention",
+        "Adequate post-operative analgesia and wound management"
+      ],
+      "environmental_precautions": [
+        "Full post-operative wound protection and infection prevention"
+      ],
+      "lifestyle_adjustments": [
+        "Post-surgical rehabilitation as directed by surgical team",
+        "Oncology referral if histopathology reveals unexpected malignancy"
+      ],
+      "when_to_seek_medical_attention": [
+        "Emergency care if growth causes neurovascular compromise",
+        "Immediate review if histopathology reveals atypical or malignant features"
+      ],
+      "warnings": [
+        "Large or deep benign tumours may require general anaesthesia for excision",
+        "Histopathological analysis of all excised tissue is mandatory"
+      ]
+    }
+  },
+  "Bullous": {
+    "description": "Blistering skin disorders including bullous pemphigoid and pemphigus vulgaris",
+    "Mild": {
+      "immediate_care": [
+        "Do not rupture blisters — intact blisters protect against infection",
+        "Cover with non-adherent sterile dressing; change daily",
+        "Urgent dermatology referral — bullous conditions require specialist management"
+      ],
+      "medications": [
+        "Topical high-potency corticosteroids (clobetasol 0.05%) for localised bullous pemphigoid",
+        "Mild antiseptic wash (dilute chlorhexidine) for erosions after blister rupture",
+        "Antihistamines for itch: cetirizine 10mg once daily"
+      ],
+      "environmental_precautions": [
+        "Avoid friction, heat, and pressure on affected skin",
+        "Use loose, soft clothing (100% cotton) to minimise trauma",
+        "Maintain cool indoor environment — heat worsens blistering"
+      ],
+      "lifestyle_adjustments": [
+        "Soft, non-irritating diet if oral mucosa involved",
+        "Avoid NSAIDs and ACE inhibitors — can trigger bullous eruptions",
+        "Maintain meticulous wound hygiene to prevent secondary bacterial infection"
+      ],
+      "when_to_seek_medical_attention": [
+        "Immediately if blisters spread rapidly, involve mucous membranes, or cause fever",
+        "If unable to eat or drink due to oral involvement",
+        "Urgent review if secondary bacterial infection suspected (pus, odour, fever)"
+      ],
+      "warnings": [
+        "Bullous disorders carry infection and fluid loss risk — do not delay specialist review",
+        "Immunosuppressive therapy is often required — self-treatment is insufficient"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Hospital-based dermatology review within 24–48 hours",
+        "Wound care by specialist nursing team for widespread erosions",
+        "Nutritional assessment if oral intake is compromised"
+      ],
+      "medications": [
+        "Oral prednisolone 0.5–1 mg/kg/day for active bullous pemphigoid",
+        "Doxycycline 100mg twice daily + nicotinamide 500mg three times daily (steroid-sparing)",
+        "Azathioprine or mycophenolate mofetil as steroid-sparing agents — specialist only"
+      ],
+      "environmental_precautions": [
+        "Hospital-grade wound dressings; avoid adhesive tapes directly on skin",
+        "Temperature-controlled environment; avoid excessive sweating"
+      ],
+      "lifestyle_adjustments": [
+        "High-protein diet to support wound healing and counter corticosteroid catabolism",
+        "Calcium and vitamin D supplementation with systemic steroids",
+        "Psychological support — chronic blistering diseases significantly impact quality of life"
+      ],
+      "when_to_seek_medical_attention": [
+        "Worsening despite oral steroids — may need IV therapy or biologics",
+        "Signs of sepsis: high fever, confusion, rapid heart rate"
+      ],
+      "warnings": [
+        "Systemic corticosteroids carry significant side effects — bone protection mandatory",
+        "Pemphigus vulgaris is potentially life-threatening — never delay treatment"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency hospital admission for widespread blistering or sepsis risk",
+        "IV fluid and electrolyte management for extensive skin loss",
+        "Intensive wound care in specialised burns/dermatology unit"
+      ],
+      "medications": [
+        "IV methylprednisolone pulse therapy for rapidly progressive disease",
+        "Rituximab (anti-CD20) for refractory pemphigus vulgaris — specialist only",
+        "IV immunoglobulin (IVIG) for severe refractory cases",
+        "IV broad-spectrum antibiotics if secondary sepsis develops"
+      ],
+      "environmental_precautions": [
+        "Sterile environment; infection control precautions in inpatient setting",
+        "Non-adherent wound dressings changed by trained nursing staff"
+      ],
+      "lifestyle_adjustments": [
+        "Parenteral nutrition if enteral intake severely compromised",
+        "MDT approach: dermatology, nutritional support, ophthalmology (if ocular involvement)"
+      ],
+      "when_to_seek_medical_attention": [
+        "This severity requires emergency hospital care — do not manage at home",
+        "ICU-level monitoring if >30% body surface area affected"
+      ],
+      "warnings": [
+        "Severe bullous disease mortality risk is significant — emergency specialist care only",
+        "All immunosuppressants require infection screening (TB, hepatitis, HIV) before initiation"
+      ]
+    }
+  },
+  "Candidiasis": {
+    "description": "Fungal infection caused by Candida species; affects skin folds, mucosa, and nails",
+    "Mild": {
+      "immediate_care": [
+        "Keep affected area clean and thoroughly dry — moisture promotes Candida growth",
+        "Wear breathable cotton underwear and loose clothing",
+        "Apply topical antifungal cream to affected area twice daily"
+      ],
+      "medications": [
+        "Clotrimazole 1% cream twice daily for 2–4 weeks",
+        "Miconazole 2% cream or powder as alternative, especially for intertriginous areas",
+        "Nystatin cream for oral or diaper candidiasis in infants"
+      ],
+      "environmental_precautions": [
+        "Avoid occlusive clothing; maximise skin ventilation",
+        "Change damp or sweaty clothing immediately",
+        "Avoid scented soaps and bath products in affected areas"
+      ],
+      "lifestyle_adjustments": [
+        "Reduce dietary refined sugar and alcohol — both promote Candida overgrowth",
+        "Control blood glucose if diabetic — hyperglycaemia is a major risk factor",
+        "Use barrier cream (zinc oxide) in skin folds to reduce moisture"
+      ],
+      "when_to_seek_medical_attention": [
+        "If symptoms persist beyond 2 weeks of topical antifungal therapy",
+        "If infection spreads or new satellite lesions appear",
+        "If recurrent — may indicate underlying immunosuppression or uncontrolled diabetes"
+      ],
+      "warnings": [
+        "Recurrent candidiasis may indicate HIV, diabetes, or immune deficiency — investigate",
+        "Avoid topical steroids alone — they worsen candidal infections"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology or GP review for systemic antifungal consideration",
+        "Intensive skin fold hygiene; keep dry with absorbent powder",
+        "Treat any contributing factors: glycaemic control, antibiotic reduction"
+      ],
+      "medications": [
+        "Oral fluconazole 150mg single dose (or 150mg weekly for recurrent episodes)",
+        "Itraconazole 100–200mg daily for 2 weeks for resistant cases",
+        "Continue topical clotrimazole alongside oral therapy for skin candidiasis"
+      ],
+      "environmental_precautions": [
+        "Avoid communal pools, gyms, and humid environments during active infection",
+        "Disinfect clothing and towels at >60°C wash cycle"
+      ],
+      "lifestyle_adjustments": [
+        "Probiotics (Lactobacillus species) may reduce recurrence in vulvovaginal candidiasis",
+        "Low-glycaemic diet to reduce systemic yeast load"
+      ],
+      "when_to_seek_medical_attention": [
+        "If oral candidiasis (thrush) persists — HIV or haematological malignancy exclusion needed",
+        "Worsening despite oral fluconazole — consider fluconazole-resistant Candida (C. krusei, C. glabrata)"
+      ],
+      "warnings": [
+        "Fluconazole is teratogenic — avoid in pregnancy; use topical azoles instead",
+        "Drug interaction: fluconazole potentiates warfarin — monitor INR closely"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent medical review for invasive or widespread cutaneous candidiasis",
+        "Blood cultures and fungal serology if systemic involvement suspected",
+        "Hospital admission for immunocompromised patients with severe candidiasis"
+      ],
+      "medications": [
+        "IV echinocandin (caspofungin, micafungin) for suspected invasive candidiasis",
+        "IV fluconazole or voriconazole if Candida albicans confirmed and patient stable",
+        "Antifungal therapy duration: minimum 14 days after first negative culture"
+      ],
+      "environmental_precautions": [
+        "Strict infection control in hospitalised patients",
+        "Central line management if catheter-related candidaemia suspected"
+      ],
+      "lifestyle_adjustments": [
+        "Immunosuppression reduction where clinically feasible",
+        "Nutritional optimisation; correct underlying metabolic abnormalities"
+      ],
+      "when_to_seek_medical_attention": [
+        "Candidaemia (Candida in bloodstream) is a medical emergency — hospital care only",
+        "Ophthalmology review for ocular candidiasis in all candidaemia patients"
+      ],
+      "warnings": [
+        "Invasive candidiasis carries 30–40% mortality — aggressive treatment mandatory",
+        "Remove central venous catheters as soon as candidaemia confirmed"
+      ]
+    }
+  },
+  "Dermatofibroma": {
+    "description": "Common benign fibrous nodule typically on lower limbs",
+    "Mild": {
+      "immediate_care": [
+        "No treatment necessary for asymptomatic dermatofibromas",
+        "Reassure patient of benign nature with characteristic dimple sign",
+        "Dermatology review if atypical features present (rapid growth, ulceration)"
+      ],
+      "medications": [
+        "No pharmacological treatment required for typical dermatofibromas",
+        "Intralesional corticosteroid (triamcinolone 10mg/mL) if symptomatic or pruritic",
+        "Topical antipruritic (hydrocortisone 1%) for occasional itch"
+      ],
+      "environmental_precautions": [
+        "Protect lesion from razor nicks during shaving — common site is lower leg",
+        "Apply SPF if sun-exposed to prevent pigmentation changes"
+      ],
+      "lifestyle_adjustments": [
+        "No lifestyle modification required",
+        "Annual skin check recommended to monitor for any atypical changes"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesion grows rapidly, becomes painful, or ulcerates",
+        "If multiple dermatofibromas appear suddenly — may indicate systemic condition",
+        "If diagnosis is uncertain — dermoscopy or biopsy provides clarity"
+      ],
+      "warnings": [
+        "Dermatofibrosarcoma protuberans (DFSP) can mimic dermatofibroma — biopsy if any doubt"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology consultation for symptomatic or cosmetically significant lesions",
+        "Surgical excision if causing pain or functional limitation"
+      ],
+      "medications": [
+        "Post-excision: topical antibiotic ointment (mupirocin 2%) for wound care",
+        "Silicone gel post-healing to optimise scar outcome"
+      ],
+      "environmental_precautions": [
+        "Post-excision sun protection to prevent hyperpigmented scarring",
+        "Avoid pressure or trauma to surgical site during healing"
+      ],
+      "lifestyle_adjustments": [
+        "Monitor scar healing; massage with emollient once wound closed"
+      ],
+      "when_to_seek_medical_attention": [
+        "Post-operative signs of infection or wound breakdown",
+        "Recurrence at excision site — unusual for benign dermatofibroma"
+      ],
+      "warnings": []
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent biopsy if rapidly enlarging — exclude dermatofibrosarcoma protuberans",
+        "Imaging to assess depth and involvement of deeper tissues"
+      ],
+      "medications": [
+        "Imatinib (Gleevec) for unresectable DFSP if confirmed — oncologist only"
+      ],
+      "environmental_precautions": [
+        "Post-surgical care and infection prevention as directed by surgical team"
+      ],
+      "lifestyle_adjustments": [
+        "MDT follow-up including oncology if DFSP confirmed"
+      ],
+      "when_to_seek_medical_attention": [
+        "Immediate oncology referral if histopathology reveals DFSP or atypical features"
+      ],
+      "warnings": [
+        "DFSP has high local recurrence rate — wide local excision or Mohs surgery required"
+      ]
+    }
+  },
+  "DrugEruption": {
+    "description": "Cutaneous adverse drug reaction ranging from maculopapular rash to severe reactions (SJS/TEN)",
+    "Mild": {
+      "immediate_care": [
+        "Identify and discontinue the suspected causative drug immediately",
+        "Document the rash onset timing relative to drug initiation",
+        "Report to prescribing physician or pharmacist urgently"
+      ],
+      "medications": [
+        "Oral antihistamine: cetirizine 10mg or loratadine 10mg once daily for pruritus",
+        "Topical corticosteroid (hydrocortisone 1%) for localised erythematous areas",
+        "Calamine lotion for symptomatic relief of itch and irritation"
+      ],
+      "environmental_precautions": [
+        "Avoid all forms of the suspected drug and structurally related medications",
+        "Inform all healthcare providers of the drug reaction for medical records",
+        "Wear medical alert bracelet if severe reaction history"
+      ],
+      "lifestyle_adjustments": [
+        "Maintain drug allergy record and share with all prescribers",
+        "Avoid self-medicating with OTC products containing the implicated drug class",
+        "Stay well-hydrated to support drug elimination"
+      ],
+      "when_to_seek_medical_attention": [
+        "Rash spreads rapidly, involves mucous membranes, or causes blistering — EMERGENCY",
+        "If fever, lymph node swelling, or facial oedema develops (DRESS syndrome)",
+        "If rash does not resolve within 1–2 weeks of stopping the causative drug"
+      ],
+      "warnings": [
+        "Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) are life-threatening — any mucosal involvement requires emergency care",
+        "Do NOT rechallenge with the causative drug without specialist supervision"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Emergency medical review — moderate drug eruptions carry escalation risk",
+        "Stop causative drug immediately; document in permanent medical record",
+        "Ophthalmology review if ocular involvement suspected"
+      ],
+      "medications": [
+        "Oral prednisolone 0.5–1mg/kg/day for significant maculopapular or urticarial eruption",
+        "Systemic antihistamines for itch and urticaria",
+        "Topical emollients for barrier restoration on affected skin"
+      ],
+      "environmental_precautions": [
+        "Avoid heat and sun — both can worsen drug-induced rash",
+        "Cool, loose cotton clothing to minimise irritation"
+      ],
+      "lifestyle_adjustments": [
+        "Rest and adequate hydration",
+        "Nutritional support if appetite reduced due to mucosal involvement"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any mucosal blistering or skin detachment — immediate emergency department",
+        "Systemic symptoms: jaundice, lymphadenopathy, eosinophilia — DRESS evaluation"
+      ],
+      "warnings": [
+        "DRESS syndrome (Drug Reaction with Eosinophilia and Systemic Symptoms) has 10% mortality",
+        "Causative drug must be permanently avoided and documented"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency hospital admission — SJS/TEN requires ICU-level care",
+        "Stop all non-essential medications immediately",
+        "IV fluid resuscitation for extensive skin detachment"
+      ],
+      "medications": [
+        "Cyclosporine or IV immunoglobulin (IVIG) for SJS/TEN — specialist burns/dermatology unit",
+        "TNF inhibitors (etanercept, infliximab) emerging evidence for TEN management",
+        "IV broad-spectrum antibiotics for secondary sepsis prevention",
+        "Systemic corticosteroids are CONTROVERSIAL in SJS/TEN — specialist decision only"
+      ],
+      "environmental_precautions": [
+        "Sterile wound management in burns unit or specialised dermatology ward",
+        "Ophthalmological care to prevent corneal scarring"
+      ],
+      "lifestyle_adjustments": [
+        "MDT: dermatology, ophthalmology, intensive care, plastic surgery",
+        "Psychological trauma support post-recovery"
+      ],
+      "when_to_seek_medical_attention": [
+        "SJS/TEN = dermatological emergency — immediate hospital admission, do not delay"
+      ],
+      "warnings": [
+        "TEN mortality rate: 30–50% — requires specialised burns/dermatology unit management",
+        "All implicated drugs must be permanently blacklisted; rechallenge can be fatal"
+      ]
+    }
+  },
+  "Hailey-Hailey Disease": {
+    "description": "Rare hereditary blistering disorder (familial benign chronic pemphigus) affecting skin folds",
+    "Mild": {
+      "immediate_care": [
+        "Keep affected skin folds clean and completely dry — moisture triggers flares",
+        "Apply topical corticosteroid (mometasone 0.1%) to reduce inflammation",
+        "Avoid friction in affected areas; use soft, breathable cotton clothing"
+      ],
+      "medications": [
+        "Topical corticosteroid (betamethasone 0.05% or mometasone 0.1%) twice daily during flares",
+        "Topical antifungal + antibacterial combination (clotrimazole + neomycin) for secondary infections",
+        "Topical tacrolimus 0.1% ointment as steroid-sparing maintenance therapy"
+      ],
+      "environmental_precautions": [
+        "Minimise sweating — use fans, air conditioning, and avoid exertion in heat",
+        "Avoid tight clothing, elastic waistbands, and synthetic fabrics",
+        "Keep skin folds dry with talc-free absorbent powders"
+      ],
+      "lifestyle_adjustments": [
+        "Identify and avoid personal triggers: friction, heat, sweating, infection, stress",
+        "Weight management reduces skin fold friction — a key precipitating factor",
+        "Apply zinc oxide paste to skin folds as barrier protection"
+      ],
+      "when_to_seek_medical_attention": [
+        "If secondary bacterial or fungal infection develops (pus, odour, spreading redness)",
+        "If flares occur more than 3–4 times per year — consider preventive therapy",
+        "Annual dermatology review for disease monitoring and treatment optimisation"
+      ],
+      "warnings": [
+        "Hailey-Hailey Disease is lifelong — complete cure is not possible; management focuses on flare control",
+        "Herpes simplex co-infection (Kaposi varicelliform eruption) can cause severe flares — antiviral treatment needed"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology review within 1–2 weeks for refractory or widespread flares",
+        "Swab erosions for bacterial and fungal culture to guide antibiotic/antifungal choice",
+        "Commence systemic antibiotic if secondary bacterial infection confirmed"
+      ],
+      "medications": [
+        "Oral doxycycline 100mg twice daily for secondary bacterial infection control",
+        "Oral fluconazole 150mg weekly if Candida co-infection confirmed",
+        "Oral aciclovir 400mg three times daily if herpes simplex co-infection suspected",
+        "Topical retinoid (tretinoin 0.025%) applied to lesions — reduces keratinocyte cohesion defect",
+        "Botulinum toxin A injections into affected axillae/groins — reduces sweating, prevents flares"
+      ],
+      "environmental_precautions": [
+        "Avoid hot weather, saunas, and excessive physical activity during flares",
+        "Use portable fans and cooling vests in hot climates",
+        "Daily showering with gentle antibacterial wash (chlorhexidine 2%) during flares"
+      ],
+      "lifestyle_adjustments": [
+        "Psychosocial support — chronic flares in skin folds significantly affect quality of life",
+        "Stress management through CBT or mindfulness — stress is a known flare trigger",
+        "Dietary anti-inflammatory foods may have modest benefit"
+      ],
+      "when_to_seek_medical_attention": [
+        "If widespread erosions, fever, or systemic illness develops",
+        "If condition significantly impacts work, mobility, or mental health",
+        "Botulinum toxin referral if sweating is the primary trigger"
+      ],
+      "warnings": [
+        "Prolonged topical corticosteroid use in skin folds causes atrophy — limit duration and potency",
+        "Genetic counselling recommended — autosomal dominant inheritance (50% transmission risk)"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent dermatology inpatient assessment for extensive or superinfected disease",
+        "Wound care by specialist nursing team for widespread erosions",
+        "IV antibiotics if severe secondary bacterial infection (cellulitis or bacteraemia)"
+      ],
+      "medications": [
+        "Oral retinoids (acitretin 0.5mg/kg/day) for refractory extensive disease",
+        "Dapsone 50–100mg daily as second-line systemic option",
+        "Cyclosporine or methotrexate for severe refractory cases — specialist supervised",
+        "Nd:YAG or CO2 laser therapy — effective for recalcitrant lesions in specialist centres",
+        "Photodynamic therapy (PDT) as emerging option for localised severe disease"
+      ],
+      "environmental_precautions": [
+        "Climate-controlled living environment essential — air conditioning reduces flare frequency",
+        "Hospital-grade wound dressings for extensive erosions",
+        "Avoid all known personal triggers rigorously"
+      ],
+      "lifestyle_adjustments": [
+        "Consider surgical management (dermabrasion, excision with skin grafting) for severely affected sites",
+        "Multidisciplinary approach: dermatology, clinical psychology, genetics, nutritional support"
+      ],
+      "when_to_seek_medical_attention": [
+        "Urgent admission if fever, spreading cellulitis, or bacteraemia suspected",
+        "Immediate review if oral retinoid side effects develop (mucocutaneous toxicity, hypertriglyceridaemia)"
+      ],
+      "warnings": [
+        "Oral retinoids (acitretin) are teratogenic — mandatory contraception for 3 years post-treatment in women of childbearing age",
+        "Severe Hailey-Hailey significantly impairs quality of life — psychological support is non-negotiable"
+      ]
+    }
+  },
+  "Impetigo": {
+    "description": "Highly contagious superficial bacterial skin infection caused by Staphylococcus aureus or Streptococcus pyogenes",
+    "Mild": {
+      "immediate_care": [
+        "Gently clean lesions with antiseptic solution (chlorhexidine 0.05%) twice daily",
+        "Apply topical antibiotic cream directly to crusted lesions",
+        "Keep nails short to prevent auto-inoculation by scratching"
+      ],
+      "medications": [
+        "Topical mupirocin 2% ointment three times daily for 5–7 days (first-line for localised)",
+        "Topical retapamulin 1% ointment as alternative for mupirocin-resistant cases",
+        "Topical fusidic acid 2% cream twice daily for 7 days"
+      ],
+      "environmental_precautions": [
+        "Isolate affected individual from school/daycare until 48 hours of antibiotic therapy completed",
+        "Do not share towels, flannels, or clothing",
+        "Wash all items at >60°C; disinfect surfaces in contact with lesions"
+      ],
+      "lifestyle_adjustments": [
+        "Wash hands thoroughly after touching lesions",
+        "Avoid direct contact sports until lesions fully crusted or healed",
+        "Change bed linen daily during active infection"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesions spread rapidly or new crops appear after 48 hours of treatment",
+        "If child develops fever or appears systemically unwell",
+        "If lesions involve periorbital area or don't respond to topical therapy"
+      ],
+      "warnings": [
+        "Impetigo is highly contagious — isolate patient and educate household contacts",
+        "Post-streptococcal glomerulonephritis is a rare but serious complication — monitor urine if streptococcal cause confirmed"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Oral antibiotic initiation after clinical assessment",
+        "Warm compress application to soften and remove crusts before antibiotic application",
+        "GP or dermatology review to exclude bullous impetigo"
+      ],
+      "medications": [
+        "Oral flucloxacillin 500mg four times daily for 7 days (Staphylococcal coverage)",
+        "Oral cefalexin 500mg twice daily as alternative",
+        "Erythromycin 500mg twice daily if penicillin allergy",
+        "MRSA-directed therapy (trimethoprim-sulfamethoxazole) if MRSA confirmed"
+      ],
+      "environmental_precautions": [
+        "Enhanced household hygiene; all contacts should use antiseptic handwash",
+        "Avoid public swimming pools for 1 week post-resolution"
+      ],
+      "lifestyle_adjustments": [
+        "Screen household contacts for asymptomatic carriage if recurrent episodes",
+        "Consider mupirocin nasal decolonisation for recurrent Staphylococcal impetigo"
+      ],
+      "when_to_seek_medical_attention": [
+        "Failure to respond to oral antibiotics within 48–72 hours",
+        "Spreading cellulitis or signs of systemic infection"
+      ],
+      "warnings": [
+        "Recurrent impetigo warrants nasal swab culture to identify Staphylococcal carriage"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Hospital assessment for widespread or ecthymatous (deep) impetigo",
+        "IV antibiotics if systemically unwell or unable to tolerate oral therapy",
+        "Wound swab culture to guide antibiotic selection"
+      ],
+      "medications": [
+        "IV flucloxacillin 1–2g four times daily for severe infection",
+        "IV vancomycin for confirmed or suspected MRSA",
+        "Step-down to oral antibiotics once clinically stable"
+      ],
+      "environmental_precautions": [
+        "Contact precautions in hospital settings",
+        "Strict isolation from other patients"
+      ],
+      "lifestyle_adjustments": [
+        "Immunodeficiency workup if severe or recurrent impetigo in adult"
+      ],
+      "when_to_seek_medical_attention": [
+        "Immediately if fever, lymphangitis, or bacteraemia signs present",
+        "Urgent if periorbital involvement threatening orbital cellulitis"
+      ],
+      "warnings": [
+        "Ecthyma (deep impetigo) can cause permanent scarring — early aggressive treatment essential"
+      ]
+    }
+  },
+  "Infestations Bites": {
+    "description": "Skin reactions to insect bites, scabies, lice, or other ectoparasitic infestations",
+    "Mild": {
+      "immediate_care": [
+        "Wash the affected area with soap and water",
+        "Apply cold compress to reduce swelling and itch",
+        "Remove any visible stinger (bee) with horizontal scraping — do not squeeze"
+      ],
+      "medications": [
+        "Topical hydrocortisone 1% cream twice daily for localised pruritus and inflammation",
+        "Oral antihistamine: cetirizine 10mg or loratadine 10mg for itch and urticaria",
+        "Calamine lotion for cooling relief of multiple bite sites"
+      ],
+      "environmental_precautions": [
+        "Apply DEET-based repellent (20–30%) before outdoor exposure",
+        "Wear long sleeves and trousers in high-insect-density environments",
+        "Use permethrin-treated clothing and bed nets in endemic areas"
+      ],
+      "lifestyle_adjustments": [
+        "Avoid scratching — risk of secondary bacterial infection",
+        "Treat all household members simultaneously for scabies and lice",
+        "Wash all clothing and bedding at high temperature for ectoparasitic infestations"
+      ],
+      "when_to_seek_medical_attention": [
+        "Signs of anaphylaxis: throat swelling, breathing difficulty, dizziness — EMERGENCY 999",
+        "If rash spreads, persists beyond 1 week, or shows signs of infection",
+        "If scabies or lice confirmed — prescription treatment required"
+      ],
+      "warnings": [
+        "Anaphylaxis from insect stings can be life-threatening — carry adrenaline autoinjector if known allergy",
+        "Tick bites in endemic areas: monitor for Lyme disease symptoms for 4 weeks"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Medical review for suspected scabies, lice, or widespread infestation",
+        "Skin scraping or dermoscopy for scabies mite confirmation",
+        "Treat all household and close contacts simultaneously"
+      ],
+      "medications": [
+        "Permethrin 5% cream (scabies): apply from neck down, leave 8–12 hours, repeat after 1 week",
+        "Malathion 0.5% lotion (lice): apply to scalp, leave 12 hours, repeat after 7 days",
+        "Oral ivermectin 200mcg/kg (scabies) for crusted or refractory cases — GP prescription",
+        "Oral antihistamines and topical steroids for post-scabetic itch (can persist 4–6 weeks)"
+      ],
+      "environmental_precautions": [
+        "Machine wash all clothing and bedding at >60°C on treatment day",
+        "Items that cannot be washed: seal in plastic bag for 72 hours",
+        "Vacuum furniture and carpets thoroughly"
+      ],
+      "lifestyle_adjustments": [
+        "Avoid close physical contact until treatment completed",
+        "Sexual partners require simultaneous treatment for scabies"
+      ],
+      "when_to_seek_medical_attention": [
+        "If itch persists beyond 6 weeks post-treatment (Norwegian/crusted scabies)",
+        "Secondary bacterial infection of excoriation sites (spreading redness, pus)"
+      ],
+      "warnings": [
+        "Post-scabetic itch is NOT reinfestation — continue antipruritic therapy; avoid repeat permethrin overuse",
+        "Crusted (Norwegian) scabies is highly contagious and requires hospital-based management"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Hospital review for crusted (Norwegian) scabies or severe hypersensitivity reaction",
+        "Anaphylaxis: IV adrenaline, antihistamine, and corticosteroid — emergency department",
+        "Infection control isolation for crusted scabies in healthcare settings"
+      ],
+      "medications": [
+        "Oral ivermectin repeat doses for crusted scabies + topical permethrin combination",
+        "IV adrenaline 0.5mg IM for anaphylaxis; IV hydrocortisone 200mg",
+        "IV antibiotics for secondary cellulitis complicating infestations"
+      ],
+      "environmental_precautions": [
+        "Full environmental decontamination for crusted scabies — specialist infection control",
+        "Contact precautions for all healthcare workers managing crusted scabies"
+      ],
+      "lifestyle_adjustments": [
+        "Nutritional support and skin barrier restoration post-infestation",
+        "Psychological support for distress related to infestation diagnosis"
+      ],
+      "when_to_seek_medical_attention": [
+        "Anaphylaxis symptoms — call emergency services immediately (999/112)",
+        "Hospital admission for crusted scabies, severe secondary cellulitis"
+      ],
+      "warnings": [
+        "Crusted scabies carries millions of mites — infection risk to contacts is extremely high",
+        "Anaphylaxis prescription: ensure patient and caregivers trained in adrenaline autoinjector use"
+      ]
+    }
+  },
+  "Keratosis": {
+    "description": "Benign or premalignant skin growths including seborrhoeic keratosis and actinic keratosis",
+    "Mild": {
+      "immediate_care": [
+        "Differentiate between seborrhoeic keratosis (benign) and actinic keratosis (premalignant) — dermatoscopy",
+        "Apply daily broad-spectrum SPF 50+ sunscreen to prevent new actinic keratoses",
+        "Monitor for changes in size, texture, or colour"
+      ],
+      "medications": [
+        "Topical fluorouracil 5% cream for actinic keratosis — apply twice daily for 2–4 weeks",
+        "Topical imiquimod 5% cream applied 3 times weekly for actinic keratosis field therapy",
+        "Topical diclofenac 3% gel for mild actinic keratosis — apply twice daily for 60–90 days"
+      ],
+      "environmental_precautions": [
+        "Strict photoprotection — actinic keratoses are directly UV-induced",
+        "Wear wide-brim hat and UPF 50+ clothing in outdoor settings",
+        "Avoid tanning beds completely"
+      ],
+      "lifestyle_adjustments": [
+        "Annual skin checks with dermatologist for patients with multiple actinic keratoses",
+        "Smoking cessation — tobacco contributes to immunosuppression and UV damage repair impairment",
+        "Vitamin D supplement if excessive sun avoidance is required"
+      ],
+      "when_to_seek_medical_attention": [
+        "Actinic keratosis that is tender, thickened, or indurated — potential squamous cell carcinoma",
+        "Seborrhoeic keratosis with sudden multiplication (sign of Leser-Trélat — may indicate internal malignancy)",
+        "Any lesion with irregular border, bleeding, or ulceration"
+      ],
+      "warnings": [
+        "Actinic keratoses are premalignant — approximately 1–10% progress to squamous cell carcinoma if untreated",
+        "Do not remove seborrhoeic keratoses with home remedies — risk of scarring and masking malignancy"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology review for treatment of multiple actinic keratoses or suspicious lesions",
+        "Cryotherapy (liquid nitrogen) for discrete actinic keratoses — effective and quick",
+        "Photodynamic therapy (PDT) for field cancerisation with multiple lesions"
+      ],
+      "medications": [
+        "Topical ingenol mebutate gel (Picato) 0.015% for face/scalp AK — 3 consecutive days",
+        "Continuation of topical field therapy (fluorouracil or imiquimod) for widespread AK",
+        "Systemic acitretin in transplant recipients with multiple AKs — specialist only"
+      ],
+      "environmental_precautions": [
+        "All outdoor activities require maximum UV protection",
+        "Consider UV-blocking window film for vehicles and home in high sun-exposure individuals"
+      ],
+      "lifestyle_adjustments": [
+        "Chemoprevention: oral nicotinamide 500mg twice daily shown to reduce new AK in high-risk patients",
+        "Regular skin self-examination monthly between dermatology visits"
+      ],
+      "when_to_seek_medical_attention": [
+        "Post-treatment failure — lesion persists or new lesions develop rapidly",
+        "Rapidly enlarging or painful AK — urgent biopsy to exclude SCC"
+      ],
+      "warnings": [
+        "Organ transplant recipients have 100x higher risk of SCC — require 3–6 monthly dermatology reviews"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent dermatology referral for biopsy of suspicious or rapidly changing keratoses",
+        "Multidisciplinary skin cancer meeting if SCC transformation suspected",
+        "Imaging if regional lymphadenopathy present"
+      ],
+      "medications": [
+        "Oral capecitabine or systemic retinoids for chemoprevention in very high-risk patients",
+        "Cemiplimab (PD-1 inhibitor) for locally advanced or metastatic SCC arising from AK"
+      ],
+      "environmental_precautions": [
+        "Total sun abstinence; photosensitising medications review",
+        "Strict infection prevention post-surgical intervention"
+      ],
+      "lifestyle_adjustments": [
+        "Oncology MDT involvement for invasive SCC arising from AK field"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any confirmed SCC requires urgent surgical referral",
+        "Lymph node metastasis requires immediate oncology review"
+      ],
+      "warnings": [
+        "SCC arising in chronically immunosuppressed patients carries worse prognosis — aggressive treatment required"
+      ]
+    }
+  },
+  "Larva Migrans": {
+    "description": "Cutaneous larva migrans — hookworm larval migration through skin, typically from contaminated sand/soil",
+    "Mild": {
+      "immediate_care": [
+        "Do not attempt to remove larvae by freezing or extraction — ineffective and harmful",
+        "Keep affected area clean and apply topical therapy to eliminate larvae",
+        "Avoid walking barefoot on beaches or soil in endemic tropical regions"
+      ],
+      "medications": [
+        "Topical thiabendazole 10–15% applied three times daily for 7–10 days",
+        "Oral ivermectin 200mcg/kg single dose (first-line oral therapy — highly effective)",
+        "Oral albendazole 400–800mg daily for 3–7 days as alternative to ivermectin"
+      ],
+      "environmental_precautions": [
+        "Wear sandals and protective footwear in endemic areas",
+        "Avoid lying directly on sand — use barrier mats or towels",
+        "Discourage cats and dogs from beach areas (they are the primary reservoir hosts)"
+      ],
+      "lifestyle_adjustments": [
+        "Report diagnosis — helps public health monitoring in travel clinics",
+        "Full resolution expected within days of treatment initiation",
+        "Monitor for secondary bacterial infection of excoriated tracks"
+      ],
+      "when_to_seek_medical_attention": [
+        "Widespread skin involvement or no response to treatment within 5 days",
+        "Secondary bacterial infection of larval tracks (redness, pus, fever)",
+        "Löffler syndrome (pulmonary symptoms) if larvae migrate beyond skin — rare"
+      ],
+      "warnings": [
+        "Cutaneous larva migrans is self-limiting but causes intense pruritus — treatment significantly accelerates resolution",
+        "Löffler's syndrome (eosinophilic pulmonary infiltration) is a rare complication"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Oral antiparasitic therapy for widespread or treatment-resistant cutaneous larva migrans",
+        "Secondary bacterial infection management with topical or oral antibiotics if present"
+      ],
+      "medications": [
+        "Oral ivermectin 200mcg/kg repeated after 1 week for persistent cases",
+        "Oral cetirizine 10mg for symptomatic itch during treatment course",
+        "Topical mupirocin 2% if secondary bacterial superinfection present"
+      ],
+      "environmental_precautions": [
+        "Continue footwear in all high-risk environments",
+        "Educate travel companions about prevention measures"
+      ],
+      "lifestyle_adjustments": [
+        "Travel medicine follow-up after tropical travel with skin symptoms",
+        "Record exposure history for epidemiological purposes"
+      ],
+      "when_to_seek_medical_attention": [
+        "If eosinophilia detected on blood count (systemic larval migration risk)",
+        "Persistent pruritic serpiginous tracks after two courses of treatment"
+      ],
+      "warnings": []
+    },
+    "Severe": {
+      "immediate_care": [
+        "Specialist tropical medicine or dermatology review for systemic or treatment-refractory cases",
+        "Full blood count and eosinophil count to assess systemic involvement"
+      ],
+      "medications": [
+        "Combination therapy: oral ivermectin + albendazole for very resistant cases",
+        "Manage Löffler syndrome with corticosteroids if pulmonary eosinophilia confirmed"
+      ],
+      "environmental_precautions": [
+        "Stringent protective footwear and barrier measures in all future endemic area exposures"
+      ],
+      "lifestyle_adjustments": [
+        "Tropical medicine follow-up to rule out concurrent parasitic infections (strongyloides)"
+      ],
+      "when_to_seek_medical_attention": [
+        "Pulmonary symptoms (cough, wheeze, dyspnoea) after tropical exposure — immediate review"
+      ],
+      "warnings": [
+        "Visceral larva migrans from Toxocara (different organism) can affect eyes and organs — distinct condition requiring specialist care"
+      ]
+    }
+  },
+  "Leprosy": {
+    "description": "Chronic infectious disease caused by Mycobacterium leprae affecting skin, nerves, and mucosa",
+    "Mild": {
+      "immediate_care": [
+        "Urgent referral to infectious disease or leprosy specialist for classification and MDT initiation",
+        "Skin biopsy and slit-skin smear for bacterial load assessment",
+        "Neurological assessment for peripheral nerve involvement"
+      ],
+      "medications": [
+        "WHO Multi-Drug Therapy (MDT) — Paucibacillary (PB): Dapsone 100mg daily + Rifampicin 600mg monthly for 6 months",
+        "Do NOT initiate treatment without specialist supervision — classification essential",
+        "Protective footwear for anaesthetic feet to prevent plantar ulceration"
+      ],
+      "environmental_precautions": [
+        "Leprosy is NOT highly contagious — household contacts require annual skin examination only",
+        "Wear protective gloves and footwear to prevent injury to anaesthetic extremities",
+        "Avoid extreme temperatures — impaired sensation increases burn/injury risk"
+      ],
+      "lifestyle_adjustments": [
+        "Daily skin and extremity inspection for insensate areas",
+        "Physiotherapy to maintain hand and foot function",
+        "Patient education about nerve damage prevention"
+      ],
+      "when_to_seek_medical_attention": [
+        "If sudden onset of nerve pain, weakness, or paralysis (lepra reaction) — URGENT",
+        "Plantar ulceration or unhealed wounds in anaesthetic feet",
+        "Eye involvement (lagophthalmos, reduced visual acuity) — ophthalmology urgently"
+      ],
+      "warnings": [
+        "Lepra reactions (Type 1 and Type 2 — erythema nodosum leprosum) are immune-mediated and can cause rapid permanent nerve damage",
+        "Leprosy carries significant social stigma — psychosocial support and education are essential"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Immediate specialist review for lepra reactions or nerve function impairment",
+        "High-dose corticosteroids for Type 1 reaction (reversal reaction) — nerve preservation priority"
+      ],
+      "medications": [
+        "WHO MDT — Multibacillary (MB): Dapsone 100mg daily + Clofazimine 50mg daily + Rifampicin 600mg + Clofazimine 300mg monthly for 12 months",
+        "Oral prednisolone 40–60mg/day for Type 1 lepra reaction — tapered over 3–6 months",
+        "Thalidomide 100–400mg/day for Type 2 (ENL) reaction — strict teratogenicity protocols"
+      ],
+      "environmental_precautions": [
+        "Regular wound care for any plantar ulcers or injuries to anaesthetic sites",
+        "Podiatric support for management of foot deformities"
+      ],
+      "lifestyle_adjustments": [
+        "Occupational therapy for hand function rehabilitation",
+        "Community-based rehabilitation for social reintegration",
+        "Nutritional support to optimise immune function"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any new neurological deficit — early corticosteroid treatment can prevent permanent paralysis",
+        "Eye closure difficulty (lagophthalmos) — urgent ophthalmological care to prevent blindness"
+      ],
+      "warnings": [
+        "Thalidomide for ENL requires strict contraception monitoring — teratogenicity is severe",
+        "Untreated lepra reactions cause irreversible peripheral nerve damage and disability"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Hospital admission for severe lepra reactions, systemic ENL, or sepsis",
+        "Multidisciplinary team: infectious disease, neurology, ophthalmology, rehabilitation",
+        "Emergency corticosteroids for acute nerve function loss"
+      ],
+      "medications": [
+        "IV methylprednisolone for severe Type 1 reactions with acute nerve palsy",
+        "Clofazimine added for ENL prophylaxis in frequently relapsing cases",
+        "Surgical decompression for nerve abscesses — specialist neurosurgery"
+      ],
+      "environmental_precautions": [
+        "Total foot protection and offloading for plantar ulcers",
+        "Sterile wound management for trophic ulcers"
+      ],
+      "lifestyle_adjustments": [
+        "Long-term rehabilitation planning for permanent disabilities (clawing, anaesthesia)",
+        "Community support and anti-stigma advocacy"
+      ],
+      "when_to_seek_medical_attention": [
+        "Acute blindness, facial nerve palsy, or loss of hand grip — emergency specialist care"
+      ],
+      "warnings": [
+        "Disability from leprosy is preventable with early detection and MDT compliance",
+        "Leprosy is NOT a death sentence — early treatment leads to complete cure with minimal disability"
+      ]
+    }
+  },
+  "Lichen Disorder": {
+    "description": "Group of inflammatory skin conditions including lichen planus and lichen sclerosus",
+    "Mild": {
+      "immediate_care": [
+        "Dermatology review for confirmation of type (lichen planus, lichen sclerosus, lichen simplex)",
+        "Apply high-potency topical corticosteroid to affected areas",
+        "Identify and eliminate potential triggers (drugs, hepatitis C, stress)"
+      ],
+      "medications": [
+        "Topical clobetasol 0.05% ointment once daily for 4–8 weeks",
+        "Topical tacrolimus 0.1% ointment for steroid-sparing maintenance",
+        "Antihistamines (hydroxyzine 25mg at night) for pruritus-dominant lichen simplex"
+      ],
+      "environmental_precautions": [
+        "Avoid irritants: perfumed soaps, synthetic underwear, wet wipes in genital lichen sclerosus",
+        "Wear loose, 100% cotton underwear for genital or perianal involvement",
+        "Avoid thermal trauma and friction to affected sites"
+      ],
+      "lifestyle_adjustments": [
+        "Hepatitis C screening for oral lichen planus — strong epidemiological association",
+        "Stress reduction as lichen planus is frequently exacerbated by psychological stress",
+        "Oral hygiene review if oral mucosa involved"
+      ],
+      "when_to_seek_medical_attention": [
+        "Genital lichen sclerosus — annual review; long-term risk of squamous cell carcinoma",
+        "Oral lichen planus with white striations — biopsy to exclude leukoplakia",
+        "If blistering or erosions develop — erosive variant requires urgent management"
+      ],
+      "warnings": [
+        "Lichen sclerosus carries a 4–6% lifetime risk of SCC at affected sites — regular monitoring mandatory",
+        "Genital lichen sclerosus: do not use topical oestrogen as primary treatment — corticosteroids are first-line"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Specialist dermatology management for erosive or widespread lichen planus",
+        "Oral medicine referral for erosive oral lichen planus",
+        "Gynaecology referral for symptomatic genital lichen sclerosus"
+      ],
+      "medications": [
+        "Topical tacrolimus 0.1% for erosive oral lichen planus (off-label but evidence-based)",
+        "Intralesional triamcinolone for hypertrophic lichen planus",
+        "Oral prednisolone 30–40mg/day (tapering) for severe erosive cutaneous lichen planus",
+        "Acitretin or hydroxychloroquine for refractory lichen planus — specialist"
+      ],
+      "environmental_precautions": [
+        "Patch testing to identify contact allergens triggering lichenoid reactions",
+        "Dental amalgam review for oral lichen planus — amalgam contact reactions documented"
+      ],
+      "lifestyle_adjustments": [
+        "Soft diet for severe oral lichen planus to reduce mucosal trauma",
+        "Psychological support — chronic itch and pain significantly impact quality of life"
+      ],
+      "when_to_seek_medical_attention": [
+        "Difficulty eating, swallowing, or speaking due to oral involvement",
+        "Persistent erosive vulval or penile disease despite topical therapy"
+      ],
+      "warnings": [
+        "Drug-induced lichenoid reactions: review all medications including antihypertensives, diuretics, and antimalarials"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Hospital-based management for ulcerative or widespread erosive lichen disease",
+        "Multidisciplinary MDT: dermatology, oral medicine, gynaecology, ophthalmology",
+        "Biopsy for histological confirmation and SCC exclusion"
+      ],
+      "medications": [
+        "Oral cyclosporine for refractory erosive lichen planus",
+        "Rituximab or baricitinib (JAK inhibitor) — emerging evidence for severe lichen planus",
+        "Topical tacrolimus + topical steroid combination for erosive genital disease"
+      ],
+      "environmental_precautions": [
+        "Hospital-grade wound dressings for ulcerated erosive disease",
+        "Strict genital hygiene without irritants"
+      ],
+      "lifestyle_adjustments": [
+        "Long-term dermatological surveillance given SCC risk at chronically inflamed sites"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any new induration or nodularity within lichen sclerosus — biopsy immediately (SCC risk)",
+        "Rapid deterioration or systemic symptoms"
+      ],
+      "warnings": [
+        "Chronic active oral lichen planus has malignant potential — minimum 6-monthly review"
+      ]
+    }
+  },
+  "Lupus Erythematosus": {
+    "description": "Autoimmune condition with cutaneous (DLE/SCLE) and systemic (SLE) manifestations",
+    "Mild": {
+      "immediate_care": [
+        "Comprehensive sun protection is non-negotiable — UV triggers and worsens cutaneous lupus",
+        "Dermatology referral for disease classification and monitoring plan",
+        "Baseline bloods: ANA, anti-dsDNA, complement C3/C4, FBC, renal and liver function"
+      ],
+      "medications": [
+        "Hydroxychloroquine 200–400mg daily (first-line for cutaneous and systemic lupus) — 6-8 weeks onset",
+        "Topical corticosteroid (clobetasol 0.05%) for active discoid lesions",
+        "Topical tacrolimus 0.1% for facial lesions to avoid steroid atrophy"
+      ],
+      "environmental_precautions": [
+        "Broad-spectrum SPF 50+ sunscreen (both UVA and UVB) reapplied every 2 hours",
+        "Physical sun barriers: hats, long sleeves, UPF 50+ clothing",
+        "Avoid fluorescent and LED lighting exposure if photosensitive — can trigger flares"
+      ],
+      "lifestyle_adjustments": [
+        "Smoking cessation — tobacco reduces hydroxychloroquine efficacy and worsens lupus",
+        "Vitamin D supplementation (1000–2000 IU daily) — deficiency common due to sun avoidance",
+        "Stress management — psychological stress is a recognised lupus flare trigger"
+      ],
+      "when_to_seek_medical_attention": [
+        "New systemic symptoms: fever, joint pain, chest pain, haematuria, headache",
+        "Ophthalmology annual review mandatory with hydroxychloroquine (retinal toxicity monitoring)",
+        "Baseline and annual renal function, blood pressure, and urinalysis"
+      ],
+      "warnings": [
+        "Hydroxychloroquine retinopathy is dose and duration dependent — annual ophthalmological review mandatory",
+        "Lupus can affect kidneys, brain, heart — systemic features require urgent investigation"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Rheumatology + dermatology co-management for systemic lupus (SLE)",
+        "Urgent investigation if new renal, neurological, or cardiac features present",
+        "Consider hospital review if systemic flare suspected"
+      ],
+      "medications": [
+        "Oral prednisolone 20–40mg/day for acute systemic flare — taper over 8–12 weeks",
+        "Hydroxychloroquine continued alongside corticosteroids",
+        "Azathioprine 2mg/kg/day or mycophenolate mofetil 1.5–3g/day as steroid-sparing agents",
+        "Topical treatments continued for skin involvement"
+      ],
+      "environmental_precautions": [
+        "Absolute sun avoidance during active flares",
+        "Infection prevention — immunosuppression increases infection risk"
+      ],
+      "lifestyle_adjustments": [
+        "Rheumatology follow-up every 3 months during active disease",
+        "Bone protection (calcium, vitamin D, bisphosphonate) with prolonged corticosteroid use",
+        "Pregnancy planning under specialist supervision — lupus is high-risk in pregnancy"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any new neuropsychiatric symptoms — lupus cerebritis is an emergency",
+        "Declining renal function or new proteinuria — urgent nephrology review"
+      ],
+      "warnings": [
+        "Antiphospholipid syndrome co-occurs in 20-40% of SLE — clotting risk must be assessed",
+        "Pregnancy in SLE requires specialist obstetric and rheumatology co-management"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency hospital admission for lupus nephritis, cerebritis, or severe cytopenias",
+        "IV methylprednisolone 500–1000mg for 3 days (pulse therapy) for organ-threatening disease",
+        "MDT: rheumatology, nephrology, neurology, haematology"
+      ],
+      "medications": [
+        "IV cyclophosphamide (Euro-Lupus protocol) for lupus nephritis",
+        "Mycophenolate mofetil for lupus nephritis maintenance",
+        "Belimumab (anti-BLyS biologic) for refractory SLE — specialist only",
+        "Anifrolumab (anti-interferon biologic) for moderate-severe refractory cutaneous/systemic lupus"
+      ],
+      "environmental_precautions": [
+        "Strict infection prevention — cyclophosphamide causes significant immunosuppression",
+        "PCP prophylaxis with co-trimoxazole during intensive immunosuppression"
+      ],
+      "lifestyle_adjustments": [
+        "Dialysis preparation if lupus nephritis progresses to ESRD",
+        "Multidisciplinary psychological support — severe lupus profoundly affects quality of life"
+      ],
+      "when_to_seek_medical_attention": [
+        "All severe lupus organ involvement requires immediate specialist inpatient care"
+      ],
+      "warnings": [
+        "Cyclophosphamide gonadotoxicity — fertility preservation discussion before treatment",
+        "Lupus cerebritis and severe nephritis carry significant morbidity and mortality"
+      ]
+    }
+  },
+  "Moles": {
+    "description": "Common benign melanocytic naevi — monitor for atypical features (ABCDE)",
+    "Mild": {
+      "immediate_care": [
+        "Apply the ABCDE rule: Asymmetry, Border, Colour, Diameter >6mm, Evolution",
+        "Photograph moles with a ruler for baseline documentation",
+        "Dermatoscopy by dermatologist to assess benign vs atypical features"
+      ],
+      "medications": [
+        "No pharmacological treatment required for typical benign moles",
+        "Daily SPF 50+ sunscreen to all moles, especially sun-exposed sites"
+      ],
+      "environmental_precautions": [
+        "Strict UV protection — sun exposure can induce malignant transformation of melanocytes",
+        "Avoid tanning beds — increase melanoma risk significantly"
+      ],
+      "lifestyle_adjustments": [
+        "Monthly self-examination using ABCDE checklist",
+        "Annual full-body skin check with dermatologist if >50 moles or atypical naevi",
+        "Avoid irritating moles with tight clothing or jewellery"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any mole that changes (ABCDE criteria) — urgent dermatology within 2 weeks",
+        "Mole that bleeds spontaneously, itches persistently, or develops satellite lesions",
+        "Family history of melanoma — enhanced surveillance programme required"
+      ],
+      "warnings": [
+        "Dysplastic (atypical) naevi are not cancerous but indicate increased melanoma risk",
+        "Never attempt home removal of moles — risk of incomplete excision and missed melanoma"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Urgent dermatology referral for excision biopsy of atypical or changing moles",
+        "Dermoscopic assessment to guide excision priority",
+        "Total body photography for high-risk patients with multiple dysplastic naevi"
+      ],
+      "medications": [
+        "Post-excision wound care: topical antibiotic and non-adherent dressing",
+        "Silicone gel for scar management post-excision"
+      ],
+      "environmental_precautions": [
+        "Maximum UV protection post-excision to prevent hyperpigmented scarring",
+        "Protect surgical site from trauma during healing"
+      ],
+      "lifestyle_adjustments": [
+        "Lifestyle sun-safety education for all family members",
+        "3–6 monthly dermatology review for patients with multiple atypical naevi"
+      ],
+      "when_to_seek_medical_attention": [
+        "Histopathology showing moderate or severe dysplasia — wider re-excision may be required",
+        "Post-excision site changes: non-healing wound or regrowth of pigmentation"
+      ],
+      "warnings": [
+        "Histopathological analysis of ALL excised moles is mandatory"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent referral to skin cancer MDT if melanoma suspected",
+        "Sentinel lymph node biopsy for melanoma staging if Breslow thickness >0.8mm",
+        "Full-body CT/PET imaging for suspected metastatic disease"
+      ],
+      "medications": [
+        "BRAF/MEK inhibitors (dabrafenib + trametinib) for BRAF V600E mutation-positive melanoma",
+        "Immunotherapy: nivolumab, pembrolizumab, or ipilimumab + nivolumab for metastatic melanoma",
+        "Adjuvant immunotherapy for high-risk resected melanoma"
+      ],
+      "environmental_precautions": [
+        "Absolute sun protection; sunscreen alone insufficient for high-risk patients"
+      ],
+      "lifestyle_adjustments": [
+        "Melanoma MDT lifelong follow-up",
+        "Genetic testing for familial melanoma syndromes (CDKN2A mutation)"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any new pigmented lesion, lymph node swelling, or systemic symptoms post-melanoma diagnosis"
+      ],
+      "warnings": [
+        "Melanoma is the most lethal skin cancer — early detection is life-saving",
+        "All first-degree relatives of melanoma patients require annual skin screening"
+      ]
+    }
+  },
+  "Molluscum Contagiosum": {
+    "description": "Common viral skin infection (poxvirus) causing pearly papules, predominantly in children",
+    "Mild": {
+      "immediate_care": [
+        "Reassure — most cases in immunocompetent children resolve spontaneously within 6–18 months",
+        "Avoid squeezing or scratching lesions — accelerates spread and causes secondary infection",
+        "Keep lesions covered with clothing where possible to reduce transmission"
+      ],
+      "medications": [
+        "Watchful waiting is acceptable first-line management for most children",
+        "Topical potassium hydroxide 10% solution applied to lesions (treatment-seeking cases)",
+        "Topical imiquimod 5% cream three times weekly for immunocompromised patients"
+      ],
+      "environmental_precautions": [
+        "Do not share towels, swimwear, or skin contact items",
+        "Cover lesions during swimming — use waterproof plasters",
+        "Avoid contact sports during active infection to prevent transmission"
+      ],
+      "lifestyle_adjustments": [
+        "Keep nails short to prevent auto-inoculation",
+        "Educate parents — condition is benign and self-limiting in immunocompetent children",
+        "Discourage shaving over affected areas — spreads lesions"
+      ],
+      "when_to_seek_medical_attention": [
+        "If lesions become inflamed, painful, or show signs of secondary bacterial infection",
+        "If lesions are located on eyelids — ophthalmology referral (risk of conjunctivitis)",
+        "Adults with widespread molluscum — consider HIV testing (may indicate immunosuppression)"
+      ],
+      "warnings": [
+        "Widespread molluscum contagiosum in adults may indicate HIV or other immunosuppression — investigate",
+        "Eczema patients are at risk of widespread molluscum — treat underlying eczema to restore skin barrier"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology review for widespread, recalcitrant, or facial molluscum",
+        "Cryotherapy (liquid nitrogen) for discrete lesions in cooperative patients",
+        "Curettage under topical anaesthesia (EMLA cream) for rapid clearance"
+      ],
+      "medications": [
+        "Topical cantharidin 0.7% applied in clinic (blistering agent) — effective for multiple lesions",
+        "Topical tretinoin 0.025–0.05% cream applied nightly — promotes immune response",
+        "Oral cimetidine 40mg/kg/day for 2–3 months (immunomodulatory — limited evidence)"
+      ],
+      "environmental_precautions": [
+        "Avoid communal changing rooms, gyms, and swimming pools during treatment",
+        "Enhanced household hygiene to prevent spread to siblings"
+      ],
+      "lifestyle_adjustments": [
+        "Psychological support for school-aged children experiencing social difficulties"
+      ],
+      "when_to_seek_medical_attention": [
+        "Treatment failure with topical therapy — cryotherapy or curettage needed",
+        "Conjunctival involvement — urgent ophthalmology review"
+      ],
+      "warnings": []
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent HIV testing and immunological workup for widespread molluscum in adults",
+        "Dermatology specialist management for immunocompromised patients",
+        "Cidofovir or imiquimod for refractory molluscum in HIV-positive patients"
+      ],
+      "medications": [
+        "Topical cidofovir 1–3% for immunocompromised refractory cases",
+        "HAART optimisation in HIV-positive patients — immune reconstitution often clears molluscum",
+        "Combination cryotherapy + topical imiquimod for resistant cases"
+      ],
+      "environmental_precautions": [
+        "Infection control guidance for immunocompromised inpatients with molluscum"
+      ],
+      "lifestyle_adjustments": [
+        "HIV clinic co-management for optimising immune status",
+        "Ongoing dermatology review every 3 months for immunocompromised patients"
+      ],
+      "when_to_seek_medical_attention": [
+        "Rapid spread or giant molluscum (>5mm) in immunocompromised patient — urgent specialist care"
+      ],
+      "warnings": [
+        "Widespread molluscum in HIV: CD4 count <200 cells/mm³ — ART intensification is primary treatment"
+      ]
+    }
+  },
+  "Nevus": {
+    "description": "Benign melanocytic naevus (mole) — requires monitoring for atypical changes",
+    "Mild": {
+      "immediate_care": [
+        "Apply ABCDE criteria assessment and photograph for baseline",
+        "Reassure patient if features are entirely typical (symmetrical, well-defined border, uniform colour)",
+        "Annual dermatoscopic review recommended"
+      ],
+      "medications": [
+        "No pharmacological treatment required",
+        "Daily broad-spectrum SPF 50+ sunscreen application"
+      ],
+      "environmental_precautions": [
+        "Strict UV avoidance and sun protection measures",
+        "Avoid tanning beds"
+      ],
+      "lifestyle_adjustments": [
+        "Monthly self-examination using the ABCDE checklist",
+        "Annual dermatology skin check"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any ABCDE change, spontaneous bleeding, or new symptoms",
+        "Strong family history of melanoma — enhanced surveillance required"
+      ],
+      "warnings": [
+        "Do not attempt home removal — risk of incomplete excision and delayed melanoma diagnosis"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology review for atypical or changing naevus — excision biopsy may be required"
+      ],
+      "medications": [
+        "Post-excision wound care as directed by clinician"
+      ],
+      "environmental_precautions": [
+        "Maximum UV protection at excision site during healing"
+      ],
+      "lifestyle_adjustments": [
+        "3–6 monthly dermatology review for multiple or atypical naevi"
+      ],
+      "when_to_seek_medical_attention": [
+        "Histopathology showing dysplasia — re-excision may be indicated"
+      ],
+      "warnings": [
+        "All excised naevi require histopathological analysis"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent skin cancer MDT referral if melanoma suspected on biopsy"
+      ],
+      "medications": [
+        "Oncological therapy as per melanoma protocols if malignancy confirmed"
+      ],
+      "environmental_precautions": [
+        "Absolute sun protection and lifelong melanoma surveillance"
+      ],
+      "lifestyle_adjustments": [
+        "MDT follow-up; genetic counselling for familial melanoma"
+      ],
+      "when_to_seek_medical_attention": [
+        "Immediate oncology referral if melanoma confirmed"
+      ],
+      "warnings": [
+        "Giant congenital naevi carry lifetime melanoma risk of up to 10% — require specialist surveillance"
+      ]
+    }
+  },
+  "Normal": {
+    "description": "No skin disease detected — healthy skin",
+    "Mild": {
+      "immediate_care": [
+        "No treatment required — maintain good skin hygiene",
+        "Cleanse face twice daily with a gentle pH-balanced cleanser",
+        "Apply appropriate moisturiser for your skin type after cleansing"
+      ],
+      "medications": [
+        "No medications required for healthy skin",
+        "Consider daily SPF 30+ as preventive photoprotection"
+      ],
+      "environmental_precautions": [
+        "Apply broad-spectrum SPF 30+ daily — UV damage is cumulative and causes premature ageing",
+        "Wear protective clothing and seek shade during peak UV hours (10am–4pm)",
+        "Stay hydrated to maintain skin moisture from within"
+      ],
+      "lifestyle_adjustments": [
+        "Maintain balanced diet rich in antioxidants (fruits, vegetables, omega-3 fatty acids)",
+        "Adequate sleep (7–9 hours) supports skin barrier regeneration",
+        "Manage stress — cortisol elevation impairs skin barrier and immunity"
+      ],
+      "when_to_seek_medical_attention": [
+        "Annual skin check if >50 moles, family history of skin cancer, or significant sun exposure history",
+        "If any new, changing, or unusual skin lesion develops"
+      ],
+      "warnings": []
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Maintain regular skincare and sun protection routine"
+      ],
+      "medications": [
+        "SPF 50+ sunscreen daily as photoprotective measure"
+      ],
+      "environmental_precautions": [
+        "Consistent UV protection all year round"
+      ],
+      "lifestyle_adjustments": [
+        "Healthy balanced lifestyle for optimal skin health"
+      ],
+      "when_to_seek_medical_attention": [
+        "Annual dermatology skin check recommended"
+      ],
+      "warnings": []
+    },
+    "Severe": {
+      "immediate_care": [
+        "No skin disease detected — no acute intervention required"
+      ],
+      "medications": [
+        "No medications indicated"
+      ],
+      "environmental_precautions": [
+        "Maintain photoprotection as standard practice"
+      ],
+      "lifestyle_adjustments": [
+        "Continue healthy lifestyle and skincare routine"
+      ],
+      "when_to_seek_medical_attention": [
+        "Seek medical advice if skin symptoms develop"
+      ],
+      "warnings": []
+    }
+  },
+  "Pityriasis Rosea": {
+    "description": "Self-limiting viral exanthem causing herald patch followed by secondary rash",
+    "Mild": {
+      "immediate_care": [
+        "Reassure — pityriasis rosea is self-limiting, resolving in 6–12 weeks",
+        "Identify and photograph the herald patch (initial larger oval plaque)",
+        "Avoid hot baths and heavy exercise — heat worsens pruritus and rash"
+      ],
+      "medications": [
+        "Oral antihistamine (cetirizine 10mg) for symptomatic itch relief",
+        "Topical menthol lotion or calamine lotion for cooling pruritic relief",
+        "Moderate-potency topical corticosteroid (betamethasone valerate 0.1%) for severe itch"
+      ],
+      "environmental_precautions": [
+        "Wear loose, breathable clothing to minimise friction and sweating",
+        "Lukewarm (not hot) showers with gentle soap-free wash",
+        "Avoid strong sunlight — though controlled UV exposure may hasten resolution"
+      ],
+      "lifestyle_adjustments": [
+        "Rest adequately — some patients experience viral prodromal fatigue",
+        "Emollient application to maintain skin moisture and reduce scale",
+        "Pityriasis rosea is not contagious to others — no isolation required"
+      ],
+      "when_to_seek_medical_attention": [
+        "If rash persists beyond 12 weeks — exclude pityriasis lichenoides or drug eruption",
+        "Secondary syphilis can mimic pityriasis rosea — syphilis serology if any doubt",
+        "Pregnancy: pityriasis rosea has been linked to adverse outcomes — obstetric review recommended"
+      ],
+      "warnings": [
+        "Pityriasis rosea in pregnancy has been associated with premature delivery — advise obstetric review",
+        "Drug-induced pityriasis rosea-like eruption: review all medications (ACE inhibitors, gold, bismuth)"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology review if extensive, very pruritic, or atypical distribution",
+        "Narrow-band UVB phototherapy (3 sessions per week) dramatically reduces duration and itch",
+        "Syphilis serology to exclude secondary syphilis if clinical uncertainty"
+      ],
+      "medications": [
+        "Oral aciclovir 800mg five times daily for 1 week — may shorten duration (HHV-7 association)",
+        "Oral erythromycin 250mg four times daily for 2 weeks (limited evidence; occasionally used)",
+        "Oral prednisolone short course for very severe pruritus — specialist directed"
+      ],
+      "environmental_precautions": [
+        "Controlled sun exposure (10–15 min daily of natural sunlight) may accelerate resolution",
+        "Avoid heavy exercise and saunas during active eruption"
+      ],
+      "lifestyle_adjustments": [
+        "Diet rich in anti-inflammatory foods during recovery phase"
+      ],
+      "when_to_seek_medical_attention": [
+        "Worsening despite 4 weeks of treatment",
+        "Pregnancy with pityriasis rosea — foetal monitoring via obstetrics"
+      ],
+      "warnings": []
+    },
+    "Severe": {
+      "immediate_care": [
+        "Dermatology review for severe, vesicular, or systemic pityriasis rosea",
+        "Exclude drug eruption and syphilis with appropriate investigations"
+      ],
+      "medications": [
+        "Narrow-band UVB phototherapy series for severe pruritic cases",
+        "Systemic corticosteroids for extremely widespread or vesicular variants — short course"
+      ],
+      "environmental_precautions": [
+        "Protect skin from secondary infection at excoriated sites"
+      ],
+      "lifestyle_adjustments": [
+        "Recovery typically complete within 12 weeks — patience and symptomatic management key"
+      ],
+      "when_to_seek_medical_attention": [
+        "If systemic symptoms (fever, arthralgia) persist — exclude other differential diagnoses"
+      ],
+      "warnings": [
+        "Inverse pityriasis rosea (axillary/groin predominance) is easily confused with other diagnoses — dermatology review"
+      ]
+    }
+  },
+  "Rosacea": {
+    "description": "Chronic inflammatory facial skin condition causing redness, papules, and telangiectasia",
+    "Mild": {
+      "immediate_care": [
+        "Identify and eliminate personal rosacea triggers (spicy food, alcohol, hot drinks, sunlight, stress)",
+        "Use gentle, soap-free cleanser and fragrance-free moisturiser twice daily",
+        "Apply SPF 50+ mineral sunscreen (titanium dioxide or zinc oxide) daily — UV is a universal trigger"
+      ],
+      "medications": [
+        "Topical metronidazole 0.75% gel or cream twice daily (first-line for papulopustular rosacea)",
+        "Topical azelaic acid 15% gel twice daily — equally effective, useful in pregnancy",
+        "Topical ivermectin 1% cream once daily (superior efficacy for papulopustular subtype)"
+      ],
+      "environmental_precautions": [
+        "Avoid extreme temperatures, saunas, steam rooms, and hot baths",
+        "Use mineral (not chemical) sunscreen — chemical filters may irritate rosacea-prone skin",
+        "Wear wide-brim hat outdoors; avoid wind exposure with barrier scarves"
+      ],
+      "lifestyle_adjustments": [
+        "Keep a symptom diary to identify personal triggers",
+        "Avoid vasodilatory foods: spicy food, alcohol, caffeine, hot beverages",
+        "Use only rosacea-safe, fragrance-free, non-comedogenic cosmetics"
+      ],
+      "when_to_seek_medical_attention": [
+        "If papules and pustules do not respond to 8 weeks of topical therapy",
+        "If eye symptoms develop (ocular rosacea: eye redness, grittiness) — ophthalmology review",
+        "Rhinophyma (nasal enlargement) — specialist surgical treatment available"
+      ],
+      "warnings": [
+        "Topical corticosteroids WORSEN rosacea — avoid completely",
+        "Ocular rosacea can cause corneal damage if untreated — report any eye symptoms urgently"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology review for papulopustular or phymatous rosacea",
+        "Oral antibiotic therapy alongside topical maintenance",
+        "Vascular laser for persistent erythema and telangiectasia — specialist referral"
+      ],
+      "medications": [
+        "Oral doxycycline 40mg (modified-release, sub-antimicrobial dose) once daily for 12–16 weeks",
+        "Oral doxycycline 100mg daily for severe papulopustular rosacea (standard dose, 8–12 weeks)",
+        "Topical ivermectin 1% for maintenance after oral antibiotic induction",
+        "Brimonidine tartrate 0.33% gel for persistent facial erythema (flushing subtype)"
+      ],
+      "environmental_precautions": [
+        "Strict trigger avoidance and sun protection",
+        "Cool compresses during flushing episodes for immediate relief"
+      ],
+      "lifestyle_adjustments": [
+        "Alcohol avoidance — ethanol is a potent rosacea trigger",
+        "Green-tinted primer under makeup can neutralise facial redness cosmetically"
+      ],
+      "when_to_seek_medical_attention": [
+        "No improvement after 16 weeks of doxycycline — consider isotretinoin",
+        "Progressive rhinophyma — CO2 laser or surgical reshaping available"
+      ],
+      "warnings": [
+        "Doxycycline: photosensitivity — rigorous sun protection mandatory during treatment",
+        "Avoid topical steroids entirely in rosacea — causes steroid rosacea (perioral dermatitis)"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent dermatology review for severe phymatous or recalcitrant papulopustular rosacea",
+        "Isotretinoin candidacy assessment",
+        "Ophthalmology emergency referral if ocular rosacea threatens corneal integrity"
+      ],
+      "medications": [
+        "Oral isotretinoin 0.3–0.5mg/kg/day for severe papulopustular rosacea refractory to antibiotics",
+        "Oral ivermectin (off-label) — emerging use in Demodex-driven severe rosacea",
+        "CO2 or Er:YAG laser for established rhinophyma — specialist surgical clinic"
+      ],
+      "environmental_precautions": [
+        "Isotretinoin: absolute photoprotection, SPF 50+ mandatory",
+        "Avoid all identified triggers rigorously during isotretinoin course"
+      ],
+      "lifestyle_adjustments": [
+        "Isotretinoin monitoring: monthly LFTs, lipids, FBC, and pregnancy tests in females",
+        "Psychological support — severe rosacea significantly impacts facial appearance and self-esteem"
+      ],
+      "when_to_seek_medical_attention": [
+        "Corneal ulceration from ocular rosacea — ophthalmological emergency",
+        "Isotretinoin side effects: severe mucocutaneous toxicity, vision changes, mood changes"
+      ],
+      "warnings": [
+        "Isotretinoin teratogenicity — mandatory contraception programme (Pregnancy Prevention Programme) for all females of childbearing age"
+      ]
+    }
+  },
+  "Squamous cell carcinoma": {
+    "description": "Second most common skin cancer; may metastasise if left untreated",
+    "Mild": {
+      "immediate_care": [
+        "Urgent dermatology referral within 1–2 weeks — SCC requires histological confirmation",
+        "Biopsy or shave excision for tissue diagnosis",
+        "Document lesion size, location, and lymph node status"
+      ],
+      "medications": [
+        "Topical imiquimod or fluorouracil for Bowen's disease (SCC in situ) only",
+        "Cryotherapy for small SCC in situ under dermatologist supervision",
+        "No topical treatment for invasive SCC — surgical excision is mandatory"
+      ],
+      "environmental_precautions": [
+        "Strict UV protection: SPF 50+ mineral sunscreen, UPF clothing, hat, shade",
+        "Avoid all tanning bed exposure — UV is the primary carcinogenic driver",
+        "Avoid chemical carcinogens: arsenic, tar, industrial chemicals"
+      ],
+      "lifestyle_adjustments": [
+        "Annual full-body skin checks",
+        "HPV vaccination discussed with specialist for HPV-driven SCC (anogenital sites)",
+        "Smoking cessation for lip and oral SCC"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any rapidly growing, indurated, or ulcerated lesion — urgent biopsy",
+        "Lymph node enlargement near SCC site — potential metastasis",
+        "Immunosuppressed patients: 6-monthly skin checks (100x higher SCC risk)"
+      ],
+      "warnings": [
+        "SCC in organ transplant recipients is aggressive with high metastatic potential",
+        "Perineural or lymphovascular invasion requires radiotherapy adjuvant — specialist MDT"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Surgical excision with 4–6mm margin within 2–4 weeks of diagnosis",
+        "Sentinel lymph node biopsy if high-risk features present",
+        "CT scan for regional lymph node and metastasis assessment"
+      ],
+      "medications": [
+        "Adjuvant radiotherapy post-excision for positive margins or perineural invasion",
+        "Post-operative wound care: topical antibiotic and moist wound dressing",
+        "Cemiplimab (anti-PD-1) for locally advanced unresectable SCC"
+      ],
+      "environmental_precautions": [
+        "Continued strict photoprotection post-excision",
+        "Oral nicotinamide 500mg twice daily for chemoprevention of new SCCs in high-risk patients"
+      ],
+      "lifestyle_adjustments": [
+        "3-monthly dermatology review for 2 years post-excision; then 6-monthly",
+        "Skin cancer support group referral"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any local recurrence at excision site — urgent re-referral",
+        "New lymphadenopathy or systemic symptoms — staging CT scan required"
+      ],
+      "warnings": [
+        "Mohs surgery recommended for high-risk anatomical sites (face, ears, hands, scalp)"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency skin cancer MDT for locally advanced, nodal, or metastatic SCC",
+        "PET-CT scan for staging of suspected metastatic SCC",
+        "Multidisciplinary planning: dermatological surgery, oncology, radiotherapy"
+      ],
+      "medications": [
+        "Cemiplimab or pembrolizumab (PD-1 inhibitors) for advanced/metastatic SCC",
+        "Platinum-based chemotherapy (cisplatin + 5-FU) for PD-1 inhibitor-ineligible patients",
+        "EGFR inhibitors (cetuximab) as alternative systemic option"
+      ],
+      "environmental_precautions": [
+        "Immunotherapy requires infection screening and side-effect monitoring",
+        "Absolute UV protection during and after treatment"
+      ],
+      "lifestyle_adjustments": [
+        "Palliative care team involvement for symptom management in advanced disease",
+        "Psychological oncology support"
+      ],
+      "when_to_seek_medical_attention": [
+        "All advanced SCC requires immediate specialist oncology management"
+      ],
+      "warnings": [
+        "Metastatic SCC prognosis is poor — immunotherapy has significantly improved outcomes but specialist management is essential"
+      ]
+    }
+  },
+  "Sun Sunlight Damage": {
+    "description": "Cumulative UV-induced skin changes including photoageing, solar lentigines, and field cancerisation",
+    "Mild": {
+      "immediate_care": [
+        "Implement rigorous daily photoprotection — the single most important intervention",
+        "Apply broad-spectrum SPF 50+ mineral sunscreen every morning (and reapply every 2 hours outdoors)",
+        "Dermatology review for assessment of any actinic keratoses within damaged skin"
+      ],
+      "medications": [
+        "Topical retinoid (tretinoin 0.025–0.05%) nightly — proven to reverse photoageing",
+        "Topical vitamin C serum (15–20%) in the morning — antioxidant protection and collagen stimulation",
+        "Topical azelaic acid or kojic acid for solar lentigine (age spot) lightening"
+      ],
+      "environmental_precautions": [
+        "Daily SPF 50+ sunscreen, even in cloudy conditions and indoors near windows",
+        "UPF 50+ protective clothing, wide-brim hat, and UV-blocking sunglasses",
+        "Peak UV hours avoidance (10am–4pm); seek shade proactively"
+      ],
+      "lifestyle_adjustments": [
+        "Antioxidant-rich diet: vitamins C and E, carotenoids, polyphenols — complement topical therapy",
+        "Stay well-hydrated — skin hydration supports barrier and repair functions",
+        "Smoking cessation — tobacco compounds UV photodamage significantly"
+      ],
+      "when_to_seek_medical_attention": [
+        "Annual dermatology review for actinic keratosis surveillance and treatment",
+        "Any new rough, scaly, or thickened area within sun-damaged skin — biopsy if uncertain",
+        "Sudden appearance of multiple new lentigines or seborrhoeic keratoses (sign of Leser-Trélat)"
+      ],
+      "warnings": [
+        "Cumulative UV damage cannot be fully reversed — prevention of further damage is the priority",
+        "Field cancerisation increases risk of multiple SCCs over time — regular surveillance essential"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Field therapy for actinic keratosis-predominant sun damage: topical fluorouracil or imiquimod",
+        "Photodynamic therapy (PDT) for widespread actinic field cancerisation",
+        "Chemical peel or laser resurfacing for significant photoageing — specialist dermatology"
+      ],
+      "medications": [
+        "Topical fluorouracil 5% cream — apply twice daily for 2–4 weeks for field treatment of AK",
+        "Topical imiquimod 5% cream — 3 times weekly for actinic field cancerisation",
+        "Oral nicotinamide 500mg twice daily — reduces new AK formation in high-risk patients"
+      ],
+      "environmental_precautions": [
+        "UV-blocking window film for vehicles and offices with high sun exposure",
+        "Consider UV-protective clothing for daily wear if occupation involves outdoor exposure"
+      ],
+      "lifestyle_adjustments": [
+        "3–6 monthly dermatology review during field therapy and 6-monthly thereafter"
+      ],
+      "when_to_seek_medical_attention": [
+        "Treatment failure or emergence of indurated, ulcerated lesions within field — SCC biopsy",
+        "Patient with history of immunosuppression or transplant — 3-monthly reviews"
+      ],
+      "warnings": [
+        "Fluorouracil and imiquimod cause intense inflammation during treatment — expected and therapeutic",
+        "Photosensitivity is markedly increased during field therapy — absolute sun avoidance required"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "MDT skin cancer review for established field cancerisation with multiple SCCs or in situ lesions",
+        "Systematic mapping of all lesions with dermoscopy and total body photography",
+        "Aggressive field treatment with PDT series, followed by oral chemoprevention"
+      ],
+      "medications": [
+        "Oral acitretin (systemic retinoid) for chemoprevention in very high-risk patients",
+        "Systemic biologics or checkpoint inhibitors for confirmed invasive SCC within damaged field",
+        "Pain management for treatment-related reactions"
+      ],
+      "environmental_precautions": [
+        "Consider geographic relocation away from high UV index environments for very high-risk patients",
+        "Complete UV abstinence; sun-protective clothing as baseline standard"
+      ],
+      "lifestyle_adjustments": [
+        "Lifelong dermatological surveillance: minimum 6-monthly reviews"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any new lesion within sun-damaged skin with atypical features — urgent biopsy"
+      ],
+      "warnings": [
+        "Organ transplant recipients with severe photodamage require chemoprevention and intensive surveillance — SCC mortality risk is significant in this group"
+      ]
+    }
+  },
+  "Tinea": {
+    "description": "Dermatophyte fungal infections including tinea pedis (athlete's foot), tinea corporis (ringworm), tinea capitis, and tinea unguium (onychomycosis)",
+    "Mild": {
+      "immediate_care": [
+        "Confirm clinical diagnosis — tinea corporis has a classic annular, scaly, pruritic plaque",
+        "Keep affected areas clean and thoroughly dry — moisture promotes dermatophyte growth",
+        "Apply topical antifungal cream to affected area and 2cm beyond the border"
+      ],
+      "medications": [
+        "Topical terbinafine 1% cream once daily for 1–2 weeks (tinea corporis/pedis — first-line)",
+        "Topical clotrimazole 1% cream twice daily for 2–4 weeks as alternative",
+        "Topical miconazole 2% powder for tinea pedis — reduces moisture in web spaces"
+      ],
+      "environmental_precautions": [
+        "Wear breathable cotton socks; change after sweating (tinea pedis)",
+        "Do not share towels, shoes, or clothing — highly transmissible by fomites",
+        "Disinfect shower floors; wear flip-flops in communal changing areas"
+      ],
+      "lifestyle_adjustments": [
+        "Dry feet thoroughly after bathing — especially between toes",
+        "Use antifungal powder in shoes during active infection",
+        "Wash all socks at >60°C and use separate towel for affected area"
+      ],
+      "when_to_seek_medical_attention": [
+        "If infection does not resolve after 4 weeks of topical therapy",
+        "Tinea capitis (scalp) always requires oral systemic antifungal treatment",
+        "Tinea unguium (nail) — topical therapy is insufficient; oral therapy required"
+      ],
+      "warnings": [
+        "Tinea capitis in children requires oral griseofulvin or terbinafine — topicals do not penetrate hair follicle",
+        "Topical corticosteroid-antifungal combinations (e.g. Lotriderm) can mask tinea and worsen it — use with caution"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Dermatology or GP review for widespread, treatment-resistant, or nail tinea",
+        "Skin scraping (KOH preparation) and fungal culture for confirmation",
+        "Initiate oral antifungal for extensive or follicular tinea"
+      ],
+      "medications": [
+        "Oral terbinafine 250mg daily for 2–6 weeks (tinea corporis, pedis) — first-line",
+        "Oral itraconazole 100–200mg daily for 2–4 weeks as alternative",
+        "Oral griseofulvin 10–20mg/kg/day for tinea capitis (especially in children — Microsporum)",
+        "Topical amorolfine nail lacquer 5% weekly for mild onychomycosis (fingernails)"
+      ],
+      "environmental_precautions": [
+        "Environmental decontamination: vacuum carpets, disinfect shoes with antifungal spray",
+        "Treat all affected household members and pets simultaneously for tinea capitis"
+      ],
+      "lifestyle_adjustments": [
+        "Avoid communal swimming pools, gyms, and changing areas until infection cleared",
+        "Footwear hygiene: replace heavily contaminated shoes during treatment"
+      ],
+      "when_to_seek_medical_attention": [
+        "No response to oral terbinafine after 4 weeks — consider terbinafine-resistant dermatophytes",
+        "Kerion (inflammatory tinea capitis) — urgent treatment to prevent scarring alopecia"
+      ],
+      "warnings": [
+        "Terbinafine: hepatotoxicity risk — LFTs before and during prolonged therapy",
+        "Kerion (boggy inflammatory mass on scalp) requires urgent oral antifungal + oral steroids to prevent permanent hair loss"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Urgent dermatology review for widespread tinea or treatment-resistant onychomycosis",
+        "Fungal culture and sensitivity for suspected resistant dermatophytes (T. violaceum, T. tonsurans)",
+        "Immunodeficiency workup if extensive or unusual tinea presentation in adult"
+      ],
+      "medications": [
+        "Oral terbinafine 250mg daily for 6 weeks (fingernails) or 12 weeks (toenails) for onychomycosis",
+        "Itraconazole pulse therapy: 200mg twice daily for 1 week per month x 3 months",
+        "Voriconazole for rare azole-resistant or non-dermatophyte mould onychomycosis — specialist only"
+      ],
+      "environmental_precautions": [
+        "Thorough environmental decontamination and continued footwear hygiene",
+        "Nail avulsion (partial or complete) may be required alongside systemic therapy for severe onychomycosis"
+      ],
+      "lifestyle_adjustments": [
+        "Podiatry referral for nail management in severe onychomycosis",
+        "Diabetic patients: podiatry co-management essential — tinea pedis and onychomycosis carry cellulitis risk"
+      ],
+      "when_to_seek_medical_attention": [
+        "Secondary bacterial cellulitis complicating tinea pedis — urgent antibiotics required",
+        "Diabetic patient with tinea pedis — higher-risk pathway, dermatology + podiatry co-management"
+      ],
+      "warnings": [
+        "Untreated tinea pedis in diabetic patients can progress to cellulitis and limb-threatening infection",
+        "Systemic antifungals have significant drug interactions — review all medications before initiating"
+      ]
+    }
+  },
+  "Vascular Tumors or Lesion": {
+    "description": "Benign or malignant vascular lesions including haemangiomas, pyogenic granulomas, and Kaposi's sarcoma",
+    "Mild": {
+      "immediate_care": [
+        "Dermatology review for accurate classification of vascular lesion type",
+        "Dermoscopy to distinguish benign haemangioma from pyogenic granuloma or KS",
+        "Photograph lesion with ruler for baseline documentation"
+      ],
+      "medications": [
+        "Topical timolol 0.5% gel for superficial infantile haemangiomas — apply twice daily",
+        "No pharmacological treatment for typical cherry angiomas",
+        "Topical imiquimod 5% for selected pyogenic granulomas — off-label"
+      ],
+      "environmental_precautions": [
+        "Protect vascular lesions from trauma — they bleed easily",
+        "Avoid compression or friction over lesions"
+      ],
+      "lifestyle_adjustments": [
+        "Parents of children with infantile haemangiomas should monitor for airway, eye, or liver involvement",
+        "Annual dermatology review for all vascular lesions not requiring immediate treatment"
+      ],
+      "when_to_seek_medical_attention": [
+        "Rapidly growing pyogenic granuloma — bleeds profusely and requires treatment",
+        "Infantile haemangioma involving airway, eye, or >5 lesions — specialist urgent review",
+        "Any suspicion of Kaposi's sarcoma (purple vascular plaques) — HIV testing and oncology referral"
+      ],
+      "warnings": [
+        "Kaposi's sarcoma is HIV-associated — any suspicious lesion requires HIV testing",
+        "Pyogenic granulomas bleed severely with minimal trauma — keep protected and treat promptly"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Oral propranolol for problematic infantile haemangiomas — paediatric dermatology supervised",
+        "Curettage and cautery for pyogenic granuloma — fast and effective",
+        "Laser therapy (pulsed dye laser) for port-wine stains and telangiectasia"
+      ],
+      "medications": [
+        "Oral propranolol 1–3mg/kg/day for infantile haemangioma (first-line systemic treatment)",
+        "Oral prednisolone (alternative to propranolol) for haemangiomas with propranolol contraindications",
+        "Sirolimus (mTOR inhibitor) for vascular anomalies (lymphatic malformations) — specialist only"
+      ],
+      "environmental_precautions": [
+        "Avoid aspirin and NSAIDs — increase bleeding risk from vascular lesions",
+        "Post-laser therapy: sun protection essential to prevent dyspigmentation"
+      ],
+      "lifestyle_adjustments": [
+        "Psychological support for patients with facial vascular birthmarks",
+        "Referral to vascular anomaly MDT centre for complex lesions"
+      ],
+      "when_to_seek_medical_attention": [
+        "Haemorrhage from vascular lesion — compress and seek emergency care",
+        "Rapid growth of any vascular lesion — malignancy exclusion needed"
+      ],
+      "warnings": [
+        "Propranolol for infantile haemangioma: risk of hypoglycaemia and hypotension — monitoring mandatory",
+        "Haemangiomas in beard distribution may indicate subglottic haemangioma — airway imaging required"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency referral for Kaposi's sarcoma, angiosarcoma, or uncontrolled haemorrhage",
+        "Full HIV workup for KS; staging CT for angiosarcoma",
+        "MDT: dermatology, oncology, vascular surgery"
+      ],
+      "medications": [
+        "Liposomal doxorubicin for disseminated Kaposi's sarcoma",
+        "HAART optimisation for HIV-KS (immune reconstitution often results in KS regression)",
+        "Paclitaxel or bevacizumab for cutaneous angiosarcoma — oncologist supervised"
+      ],
+      "environmental_precautions": [
+        "Strict wound care and infection prevention for ulcerated vascular tumours",
+        "Avoid trauma to active tumour sites"
+      ],
+      "lifestyle_adjustments": [
+        "Palliative care team involvement for advanced vascular malignancies",
+        "Psychological support and end-of-life planning if appropriate"
+      ],
+      "when_to_seek_medical_attention": [
+        "All malignant vascular tumours require immediate specialist oncology management"
+      ],
+      "warnings": [
+        "Cutaneous angiosarcoma carries extremely poor prognosis — early aggressive treatment is essential"
+      ]
+    }
+  },
+  "Vasculitis": {
+    "description": "Inflammation of blood vessel walls causing palpable purpura, ulcers, and systemic involvement",
+    "Mild": {
+      "immediate_care": [
+        "Urgent dermatology and rheumatology assessment — vasculitis may indicate systemic disease",
+        "Blood tests: ANCA, ANA, complement, cryoglobulins, hepatitis B/C, FBC, renal and liver function",
+        "Urine dipstick for haematuria/proteinuria — renal vasculitis exclusion"
+      ],
+      "medications": [
+        "Identify and remove triggering cause (drug withdrawal, infection treatment)",
+        "Leg elevation and compression for dependent palpable purpura",
+        "Colchicine 0.5–1mg twice daily or dapsone 50mg daily for urticarial vasculitis"
+      ],
+      "environmental_precautions": [
+        "Elevate legs above heart level when resting to reduce dependent purpura",
+        "Avoid prolonged standing and cold exposure — both worsen cutaneous vasculitis",
+        "Compression stockings for lower limb vasculitis"
+      ],
+      "lifestyle_adjustments": [
+        "Identify and eliminate triggering infections or medications",
+        "Alcohol avoidance if cryoglobulinaemia-associated vasculitis"
+      ],
+      "when_to_seek_medical_attention": [
+        "Any renal, pulmonary, neurological, or gastrointestinal involvement — emergency",
+        "Rapidly progressive or necrotic skin lesions — ulcerating vasculitis",
+        "ANCA-positive vasculitis — immediate rheumatology assessment for GPA/MPA"
+      ],
+      "warnings": [
+        "Cutaneous vasculitis may be the presenting feature of systemic vasculitis (GPA, MPA, eosinophilic GPA) — never dismiss as purely cutaneous",
+        "Pauci-immune vasculitis with ANCA positivity can cause rapidly progressive glomerulonephritis — emergency investigation required"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "Hospital assessment for systemic vasculitis or extensive cutaneous involvement",
+        "Biopsy of active lesion with direct immunofluorescence",
+        "Multi-system assessment: renal, pulmonary, neurological"
+      ],
+      "medications": [
+        "Oral prednisolone 40–60mg/day for moderate cutaneous vasculitis",
+        "Colchicine or hydroxychloroquine for urticarial vasculitis",
+        "Immunosuppressants (azathioprine, methotrexate) for steroid-dependent cases — specialist"
+      ],
+      "environmental_precautions": [
+        "Rigorous wound care for ulcerating vasculitic lesions",
+        "Compression bandaging for lower limb ulcers under specialist guidance"
+      ],
+      "lifestyle_adjustments": [
+        "Regular rheumatology and dermatology co-management",
+        "Bone protection with calcium, vitamin D, bisphosphonate during steroid therapy"
+      ],
+      "when_to_seek_medical_attention": [
+        "Worsening renal function or new haematuria during treatment — urgent nephrology",
+        "Peripheral neuropathy or systemic features developing"
+      ],
+      "warnings": [
+        "Do not reduce corticosteroids too rapidly — risks disease flare and organ damage",
+        "Screen for infections before and during immunosuppression (TB, hepatitis, HIV)"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Emergency hospital admission for organ-threatening vasculitis",
+        "IV methylprednisolone 500–1000mg pulse therapy for severe ANCA-associated vasculitis",
+        "Plasma exchange (plasmapheresis) for severe renal or pulmonary-renal syndrome"
+      ],
+      "medications": [
+        "IV cyclophosphamide or rituximab for ANCA-associated vasculitis induction",
+        "Avacopan (complement C5a receptor inhibitor) as steroid-sparing agent for GPA/MPA",
+        "IV immunoglobulin for refractory cases or those with sepsis risk",
+        "Dialysis if acute renal failure from vasculitis"
+      ],
+      "environmental_precautions": [
+        "Strict infection prevention during intensive immunosuppression",
+        "PCP prophylaxis with co-trimoxazole during cyclophosphamide therapy"
+      ],
+      "lifestyle_adjustments": [
+        "MDT approach: rheumatology, nephrology, pulmonology, dermatology",
+        "Long-term immunosuppression monitoring and infection vigilance"
+      ],
+      "when_to_seek_medical_attention": [
+        "All organ-threatening vasculitis is a medical emergency requiring immediate specialist care"
+      ],
+      "warnings": [
+        "ANCA-associated vasculitis with diffuse alveolar haemorrhage has 50% mortality without aggressive treatment",
+        "Rituximab for ANCA vasculitis: risk of hepatitis B reactivation — HBV status mandatory before initiation"
+      ]
+    }
+  },
+  "Warts": {
+    "description": "Common HPV-induced benign epidermal growths; multiple types including common, plantar, flat, and filiform warts",
+    "Mild": {
+      "immediate_care": [
+        "Reassure — most warts in immunocompetent individuals resolve spontaneously within 2 years",
+        "Protect from auto-inoculation: do not pick, bite, or scratch warts",
+        "Cover plantar warts (verrucae) during swimming and communal showers"
+      ],
+      "medications": [
+        "Topical salicylic acid 12–26% applied daily after filing with emery board (first-line self-treatment)",
+        "Topical salicylic acid 40% pads for plantar warts — more concentrated for thick callus",
+        "Over-counter dimethyl ether (Wartner/Bazuka) cryotherapy — less effective than clinical liquid nitrogen"
+      ],
+      "environmental_precautions": [
+        "Wear flip-flops in communal changing rooms and pool areas",
+        "Do not share towels or footwear with others",
+        "Cover broken skin or warts before swimming to reduce HPV transmission"
+      ],
+      "lifestyle_adjustments": [
+        "Wash hands thoroughly after touching warts",
+        "HPV vaccination (Gardasil-9): discuss with GP for genital wart prevention in eligible age groups",
+        "Keep warts covered with waterproof plaster to reduce transmission"
+      ],
+      "when_to_seek_medical_attention": [
+        "If warts fail to respond to 3 months of topical salicylic acid",
+        "Genital warts always require medical assessment — specialist STI clinic",
+        "If immunocompromised — warts may be extensive and require specialist management"
+      ],
+      "warnings": [
+        "Genital warts (HPV 6 and 11) are sexually transmitted — partner notification and STI screening required",
+        "HPV vaccination before sexual debut provides optimal protection against oncogenic and wart-causing HPV strains"
+      ]
+    },
+    "Moderate": {
+      "immediate_care": [
+        "GP or dermatology review for multiple, painful, or treatment-resistant warts",
+        "Cryotherapy with liquid nitrogen (LN2) every 2–3 weeks until clearance",
+        "Mosaic verrucae on soles: consider combination salicylic acid + cryotherapy"
+      ],
+      "medications": [
+        "Cantharidin 0.7% (blistering agent) applied in clinic — effective for recalcitrant warts",
+        "Intralesional bleomycin injections for multiple resistant warts — specialist clinic",
+        "Topical imiquimod 5% cream for flat or recalcitrant warts (off-label)"
+      ],
+      "environmental_precautions": [
+        "Post-cryotherapy: protect blistered area; avoid swimming until healed",
+        "Avoid mechanical trauma to post-treatment sites"
+      ],
+      "lifestyle_adjustments": [
+        "Patience required — average 4–6 cryotherapy sessions for clearance",
+        "Psychological support for school-aged children affected by bullying around warts"
+      ],
+      "when_to_seek_medical_attention": [
+        "Failure after 6 cycles of cryotherapy — second-line treatments available",
+        "Periungual warts (around nails) — specialist laser or surgical management"
+      ],
+      "warnings": [
+        "Cryotherapy is painful — topical anaesthetic (EMLA) recommended for children and plantar verrucae",
+        "Periungual warts require careful cryotherapy — risk of nail matrix damage"
+      ]
+    },
+    "Severe": {
+      "immediate_care": [
+        "Dermatology specialist review for extensive, recalcitrant, or immunocompromised-associated warts",
+        "Immunological workup for widespread or unusually persistent warts in adults"
+      ],
+      "medications": [
+        "Intralesional candida antigen immunotherapy — stimulates immune-mediated wart clearance",
+        "Oral zinc sulfate 10mg/kg/day (max 600mg/day) for multiple warts — modest evidence",
+        "CO2 or pulsed dye laser for recalcitrant warts — specialist laser clinic",
+        "Oral cimetidine 25–40mg/kg/day (immunomodulatory) for multiple warts in children"
+      ],
+      "environmental_precautions": [
+        "Infection control for immunocompromised patients with extensive HPV disease",
+        "HPV vaccination of unvaccinated immunocompromised patients — live vaccines avoided"
+      ],
+      "lifestyle_adjustments": [
+        "Optimisation of immunosuppression where clinically possible",
+        "HIV clinic co-management if HIV-associated extensive HPV disease"
+      ],
+      "when_to_seek_medical_attention": [
+        "Epidermodysplasia verruciformis — specialist management for this rare HPV-susceptibility syndrome",
+        "Bowenoid papulosis (HPV-related in situ SCC) — urgent specialist review"
+      ],
+      "warnings": [
+        "Bowenoid papulosis in genital area may appear wart-like but is high-grade HPV-related dysplasia — biopsy essential",
+        "Epidermodysplasia verruciformis carries lifelong risk of cutaneous SCC — annual skin checks"
+      ]
+    }
+  }
+}

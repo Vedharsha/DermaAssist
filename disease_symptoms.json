@@ -1,0 +1,547 @@
+{
+  "Normal": {
+    "description": "No skin disease detected - healthy skin",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": false,
+    "ask_location": true,
+    "symptoms": []
+  },
+  "Acne": {
+    "description": "A skin condition characterized by pimples, blackheads, and whiteheads",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "comedones", "label": "Blackheads or whiteheads present", "type": "checkbox"},
+      {"name": "papules", "label": "Red bumps (papules) on skin", "type": "checkbox"},
+      {"name": "pustules", "label": "Pus-filled bumps (pustules)", "type": "checkbox"},
+      {"name": "cystic_lesions", "label": "Large, painful nodules or cysts", "type": "checkbox"},
+      {"name": "oily_skin", "label": "Excessive oily/greasy skin", "type": "checkbox"},
+      {"name": "itching", "label": "Itching or tenderness", "type": "checkbox"},
+      {"name": "duration_weeks", "label": "How long have you had acne?", "type": "slider", "min": 1, "max": 52, "unit": "weeks"},
+      {"name": "hormonal_trigger", "label": "Does it worsen during menstrual cycle?", "type": "checkbox"}
+    ]
+  },
+  "Melanoma": {
+    "description": "A serious type of skin cancer that requires urgent evaluation",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "asymmetrical_mole", "label": "Mole is asymmetrical (not symmetrical)", "type": "checkbox"},
+      {"name": "irregular_border", "label": "Irregular or jagged borders", "type": "checkbox"},
+      {"name": "multiple_colors", "label": "Multiple colors (brown, black, red, blue)", "type": "checkbox"},
+      {"name": "diameter_larger_than_pencil", "label": "Diameter larger than a pencil eraser (>6mm)", "type": "checkbox"},
+      {"name": "itching", "label": "Itching or bleeding from the mole", "type": "checkbox"},
+      {"name": "changing", "label": "Mole has changed size, shape, or color", "type": "checkbox"},
+      {"name": "duration_months", "label": "How long has this mole been present?", "type": "slider", "min": 1, "max": 240, "unit": "months"},
+      {"name": "change_speed", "label": "Speed of change", "type": "radio", "options": ["No change", "Slow (months)", "Rapid (weeks)"]},
+      {"name": "family_history_melanoma", "label": "Family history of melanoma", "type": "checkbox"}
+    ]
+  },
+  "Psoriasis": {
+    "description": "A chronic autoimmune condition causing thick, scaly patches",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "silvery_scales", "label": "Silvery-white scales on red patches", "type": "checkbox"},
+      {"name": "plaques", "label": "Thick, raised plaques on skin", "type": "checkbox"},
+      {"name": "itching", "label": "Itching or burning sensation", "type": "checkbox"},
+      {"name": "bleeding_when_scraped", "label": "Bleeding when scales are removed", "type": "checkbox"},
+      {"name": "nails_affected", "label": "Fingernails or toenails affected (pitting)", "type": "checkbox"},
+      {"name": "joint_pain", "label": "Joint pain or swelling (arthritis)", "type": "checkbox"},
+      {"name": "severity_scale", "label": "Estimated percentage of body affected", "type": "slider", "min": 1, "max": 100, "unit": "%"},
+      {"name": "flare_triggers", "label": "Known triggers (stress, cold, infections)", "type": "text", "placeholder": "e.g., stress, cold weather, infections"},
+      {"name": "duration_years", "label": "How long have you had psoriasis?", "type": "slider", "min": 1, "max": 60, "unit": "years"}
+    ]
+  },
+  "Eczema": {
+    "description": "An inflammatory skin condition causing itching and rash",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "intense_itching", "label": "Intense itching (worse at night)", "type": "checkbox"},
+      {"name": "dry_skin", "label": "Dry, sensitive skin", "type": "checkbox"},
+      {"name": "redness", "label": "Redness or inflammation", "type": "checkbox"},
+      {"name": "small_raised_bumps", "label": "Small raised bumps (may leak fluid)", "type": "checkbox"},
+      {"name": "cracking_bleeding", "label": "Cracked or bleeding skin", "type": "checkbox"},
+      {"name": "swelling", "label": "Swelling from scratching", "type": "checkbox"},
+      {"name": "affected_areas", "label": "Most affected areas", "type": "multi_checkbox", "options": ["Face", "Hands", "Feet", "Inner elbows", "Behind knees", "Scalp"]},
+      {"name": "itching_severity", "label": "Itching severity (1=mild, 5=unbearable)", "type": "slider", "min": 1, "max": 5},
+      {"name": "allergen_triggers", "label": "Known allergen triggers", "type": "text", "placeholder": "e.g., soaps, detergents, pet dander"}
+    ]
+  },
+  "Herpes Simplex": {
+    "description": "A viral infection causing painful blisters and sores",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "blisters", "label": "Fluid-filled blisters or vesicles", "type": "checkbox"},
+      {"name": "tingling_burning", "label": "Tingling or burning sensation before blisters appear", "type": "checkbox"},
+      {"name": "painful_ulcers", "label": "Painful open sores (ulcers)", "type": "checkbox"},
+      {"name": "crusting", "label": "Crusted/scabbed lesions", "type": "checkbox"},
+      {"name": "fever", "label": "Fever or chills", "type": "checkbox"},
+      {"name": "swollen_lymph_nodes", "label": "Swollen lymph nodes", "type": "checkbox"},
+      {"name": "location", "label": "Lesion location", "type": "radio", "options": ["Mouth/Lips", "Genital", "Other"]},
+      {"name": "recurrence_frequency", "label": "Is this a recurrence?", "type": "radio", "options": ["First episode", "Occasional recurrence", "Frequent recurrence"]},
+      {"name": "days_since_onset", "label": "Days since symptom onset", "type": "slider", "min": 1, "max": 14, "unit": "days"}
+    ]
+  },
+  "Basal Cell Carcinoma": {
+    "description": "The most common type of skin cancer",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "pearl_nodule", "label": "Pearl-like, waxy nodule with rolled edges", "type": "checkbox"},
+      {"name": "bleeding_ulcer", "label": "Bleeding or oozing sore that doesn't heal", "type": "checkbox"},
+      {"name": "shiny_bump", "label": "Shiny pink, red, or pale bump", "type": "checkbox"},
+      {"name": "central_depression", "label": "Central depression with rolled edges", "type": "checkbox"},
+      {"name": "telangiectasia", "label": "Visible blood vessels (telangiectasia)", "type": "checkbox"},
+      {"name": "location_on_face", "label": "Located on face, ear, or scalp", "type": "checkbox"},
+      {"name": "ulceration", "label": "Central ulceration with bleeding", "type": "checkbox"},
+      {"name": "sun_exposure", "label": "History of excessive sun exposure or sunburns", "type": "checkbox"},
+      {"name": "duration_months", "label": "How long has this lesion been present?", "type": "slider", "min": 1, "max": 120, "unit": "months"}
+    ]
+  },
+  "Squamous cell carcinoma": {
+    "description": "A common type of skin cancer with faster growth than BCC",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "red_scaly_patch", "label": "Red, scaly patch on skin", "type": "checkbox"},
+      {"name": "raised_nodule", "label": "Raised nodule or wart-like growth", "type": "checkbox"},
+      {"name": "bleeding_ulcer", "label": "Bleeding or oozing lesion", "type": "checkbox"},
+      {"name": "open_sore", "label": "Open sore that doesn't heal", "type": "checkbox"},
+      {"name": "rapid_growth", "label": "Rapid growth (weeks to months)", "type": "checkbox"},
+      {"name": "itching_pain", "label": "Itching or pain", "type": "checkbox"},
+      {"name": "location_sun_exposed", "label": "Located on sun-exposed area", "type": "checkbox"},
+      {"name": "growth_rate", "label": "Growth rate", "type": "radio", "options": ["Slow (months)", "Moderate (weeks)", "Rapid (days)"]},
+      {"name": "sun_damage_history", "label": "History of chronic sun exposure", "type": "checkbox"}
+    ]
+  },
+  "Tinea": {
+    "description": "A fungal infection (ringworm) with scaling and itching",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "circular_patches", "label": "Circular or ring-shaped patches", "type": "checkbox"},
+      {"name": "red_borders", "label": "Red, raised borders with clear center", "type": "checkbox"},
+      {"name": "scaling", "label": "Scaling or flaking skin", "type": "checkbox"},
+      {"name": "itching", "label": "Itching", "type": "checkbox"},
+      {"name": "burning", "label": "Burning sensation", "type": "checkbox"},
+      {"name": "multiple_patches", "label": "Multiple patches spreading", "type": "checkbox"},
+      {"name": "location", "label": "Primary location", "type": "radio", "options": ["Scalp", "Body", "Feet (Athlete's foot)", "Groin", "Nails"]},
+      {"name": "duration_weeks", "label": "How long has infection been present?", "type": "slider", "min": 1, "max": 26, "unit": "weeks"},
+      {"name": "exposure_source", "label": "Possible exposure source", "type": "text", "placeholder": "e.g., public pool, shared towels, animals"}
+    ]
+  },
+  "Warts": {
+    "description": "Benign growths caused by human papillomavirus (HPV)",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "small_bumps", "label": "Small, hard bumps", "type": "checkbox"},
+      {"name": "rough_texture", "label": "Rough, uneven texture", "type": "checkbox"},
+      {"name": "black_dots", "label": "Small black dots (blood vessels)", "type": "checkbox"},
+      {"name": "painless", "label": "Painless (unless on pressure points)", "type": "checkbox"},
+      {"name": "clusters", "label": "Appearing in clusters", "type": "checkbox"},
+      {"name": "location", "label": "Location", "type": "multi_checkbox", "options": ["Hands", "Feet", "Plantar (sole)", "Genital area", "Face"]},
+      {"name": "duration_weeks", "label": "How long have you had warts?", "type": "slider", "min": 1, "max": 156, "unit": "weeks"},
+      {"name": "previous_treatment", "label": "Previously treated or removed?", "type": "checkbox"},
+      {"name": "recurring", "label": "Do warts keep coming back?", "type": "checkbox"}
+    ]
+  },
+  "Vitiligo": {
+    "description": "A condition causing loss of skin pigmentation in patches",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "depigmented_patches", "label": "White or hypopigmented patches", "type": "checkbox"},
+      {"name": "symmetric_distribution", "label": "Symmetrical distribution on body", "type": "checkbox"},
+      {"name": "well_demarcated", "label": "Well-defined borders", "type": "checkbox"},
+      {"name": "itching", "label": "Itching or burning at edges", "type": "checkbox"},
+      {"name": "sun_sensitivity", "label": "Increased sun sensitivity in white patches", "type": "checkbox"},
+      {"name": "hair_whitening", "label": "Hair turning white in affected areas", "type": "checkbox"},
+      {"name": "progression_rate", "label": "Rate of progression", "type": "radio", "options": ["Slow (stable)", "Moderate (months)", "Rapid (weeks)"]},
+      {"name": "body_percentage", "label": "Percentage of body affected", "type": "slider", "min": 1, "max": 100, "unit": "%"},
+      {"name": "family_history", "label": "Family history of vitiligo or autoimmune diseases", "type": "checkbox"}
+    ]
+  },
+  "Impetigo": {
+    "description": "A highly contagious bacterial skin infection",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "honey_crusted", "label": "Golden or honey-colored crusts", "type": "checkbox"},
+      {"name": "blisters", "label": "Fluid-filled blisters", "type": "checkbox"},
+      {"name": "pustules", "label": "Pus-filled lesions (pustules)", "type": "checkbox"},
+      {"name": "red_base", "label": "Red, inflamed base", "type": "checkbox"},
+      {"name": "rapid_spread", "label": "Rapidly spreading lesions", "type": "checkbox"},
+      {"name": "itching", "label": "Intense itching", "type": "checkbox"},
+      {"name": "location", "label": "Most common locations", "type": "multi_checkbox", "options": ["Face", "Arms", "Legs", "Exposed areas"]},
+      {"name": "fever", "label": "Associated fever", "type": "checkbox"},
+      {"name": "contagion_awareness", "label": "Are you aware this is highly contagious?", "type": "checkbox"}
+    ]
+  },
+  "Rosacea": {
+    "description": "A chronic condition causing facial redness and flushing",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "persistent_redness", "label": "Persistent facial redness (usually on cheeks/nose)", "type": "checkbox"},
+      {"name": "flushing", "label": "Frequent flushing or blushing", "type": "checkbox"},
+      {"name": "visible_blood_vessels", "label": "Visible blood vessels (telangiectasia)", "type": "checkbox"},
+      {"name": "bumps_pustules", "label": "Bumps or pustules on redness", "type": "checkbox"},
+      {"name": "facial_burning", "label": "Burning or stinging sensation", "type": "checkbox"},
+      {"name": "thickened_skin", "label": "Thickened skin (especially nose - rhinophyma)", "type": "checkbox"},
+      {"name": "eye_symptoms", "label": "Eye symptoms (dryness, irritation)", "type": "checkbox"},
+      {"name": "severity_scale", "label": "Severity of symptoms", "type": "slider", "min": 1, "max": 5, "label_min": "Mild", "label_max": "Severe"},
+      {"name": "known_triggers", "label": "Known triggers", "type": "text", "placeholder": "e.g., spicy food, alcohol, heat, stress"}
+    ]
+  },
+  "Candidiasis": {
+    "description": "A fungal infection caused by Candida yeast",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "white_patches", "label": "White or cream-colored patches", "type": "checkbox"},
+      {"name": "red_irritation", "label": "Red, irritated area beneath or around patches", "type": "checkbox"},
+      {"name": "itching_burning", "label": "Itching or burning", "type": "checkbox"},
+      {"name": "discharge", "label": "Discharge (if in fold/intertriginous area)", "type": "checkbox"},
+      {"name": "maceration", "label": "Soggy, whitened skin (maceration)", "type": "checkbox"},
+      {"name": "painful", "label": "Painful, especially when eating/swallowing", "type": "checkbox"},
+      {"name": "location", "label": "Location of infection", "type": "radio", "options": ["Mouth/Oral", "Genital", "Skin folds", "Under breasts", "Other"]},
+      {"name": "risk_factors", "label": "Risk factors present", "type": "multi_checkbox", "options": ["Antibiotic use", "Diabetes", "Weakened immunity", "Hormonal changes", "Moisture/sweating"]},
+      {"name": "duration_weeks", "label": "Duration of infection", "type": "slider", "min": 1, "max": 26, "unit": "weeks"}
+    ]
+  },
+  "Dermatofibroma": {
+    "description": "A benign fibrous growth in the skin",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "firm_nodule", "label": "Firm, raised nodule", "type": "checkbox"},
+      {"name": "brown_reddish", "label": "Brown, reddish, or skin-colored", "type": "checkbox"},
+      {"name": "dimple_sign", "label": "Dimpling when pinched (dimple sign)", "type": "checkbox"},
+      {"name": "itching", "label": "Occasional itching", "type": "checkbox"},
+      {"name": "size_mm", "label": "Approximate size", "type": "slider", "min": 5, "max": 50, "unit": "mm"},
+      {"name": "duration_months", "label": "How long has it been present?", "type": "slider", "min": 1, "max": 240, "unit": "months"},
+      {"name": "stable", "label": "Is it stable (not changing)?", "type": "checkbox"}
+    ]
+  },
+  "Moles": {
+    "description": "Common pigmented skin lesions (nevi)",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "uniform_color", "label": "Uniform color (brown, black, or tan)", "type": "checkbox"},
+      {"name": "round_oval", "label": "Round or oval shape", "type": "checkbox"},
+      {"name": "regular_border", "label": "Regular, well-defined borders", "type": "checkbox"},
+      {"name": "flat_raised", "label": "Appearance", "type": "radio", "options": ["Flat (macule)", "Slightly raised", "Raised (papule)"]},
+      {"name": "stable", "label": "Stable (not changing)", "type": "checkbox"},
+      {"name": "family_history_moles", "label": "Family history of many moles", "type": "checkbox"},
+      {"name": "number_of_moles", "label": "Approximate number of moles on body", "type": "slider", "min": 1, "max": 50},
+      {"name": "size_mm", "label": "Size of this mole", "type": "slider", "min": 3, "max": 20, "unit": "mm"}
+    ]
+  },
+  "Keratosis": {
+    "description": "Benign skin growths (seborrheic or actinic keratosis)",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "waxy_appearance", "label": "Waxy, scaly appearance (seborrheic)", "type": "checkbox"},
+      {"name": "rough_texture", "label": "Rough, sandpaper-like texture (actinic)", "type": "checkbox"},
+      {"name": "stuck_on_appearance", "label": "Stuck-on appearance", "type": "checkbox"},
+      {"name": "itching", "label": "Itching or irritation", "type": "checkbox"},
+      {"name": "easily_removed", "label": "Can be easily scraped off", "type": "checkbox"},
+      {"name": "multiple_lesions", "label": "Multiple lesions present", "type": "checkbox"},
+      {"name": "location_sun_exposed", "label": "Located on sun-exposed areas", "type": "checkbox"},
+      {"name": "type", "label": "Type of keratosis", "type": "radio", "options": ["Seborrheic (waxy)", "Actinic (precancerous)", "Unclear"]}
+    ]
+  },
+  "Lupus Erythematosus": {
+    "description": "An autoimmune disease affecting skin and internal organs",
+    "ask_skin_type": true,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "butterfly_rash", "label": "Butterfly rash on cheeks and nose", "type": "checkbox"},
+      {"name": "photosensitivity", "label": "Photosensitivity (worsens in sun)", "type": "checkbox"},
+      {"name": "discoid_lesions", "label": "Discoid (coin-shaped) lesions", "type": "checkbox"},
+      {"name": "oral_ulcers", "label": "Oral ulcers (painless or painful)", "type": "checkbox"},
+      {"name": "joint_pain", "label": "Joint pain or arthritis", "type": "checkbox"},
+      {"name": "fatigue", "label": "Fatigue", "type": "checkbox"},
+      {"name": "fever", "label": "Fever", "type": "checkbox"},
+      {"name": "diagnosed_lupus", "label": "Have you been diagnosed with lupus?", "type": "checkbox"},
+      {"name": "family_history_autoimmune", "label": "Family history of autoimmune diseases", "type": "checkbox"}
+    ]
+  },
+  "Vasculitis": {
+    "description": "Inflammation of blood vessels in the skin",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "palpable_purpura", "label": "Palpable purpura (raised, can feel bumps)", "type": "checkbox"},
+      {"name": "lower_extremity", "label": "Primarily on lower extremities and buttocks", "type": "checkbox"},
+      {"name": "symmetrical", "label": "Symmetrical distribution", "type": "checkbox"},
+      {"name": "itching_burning", "label": "Itching or burning", "type": "checkbox"},
+      {"name": "joint_pain", "label": "Associated joint pain", "type": "checkbox"},
+      {"name": "systemic_symptoms", "label": "Systemic symptoms (fever, malaise, GI symptoms)", "type": "checkbox"},
+      {"name": "worsening_pattern", "label": "Pattern of worsening", "type": "radio", "options": ["Progressive", "Episodic", "Stable"]},
+      {"name": "recent_infection", "label": "Recent infection or medication use?", "type": "text", "placeholder": "e.g., recent infection, antibiotics"}
+    ]
+  },
+  "DrugEruption": {
+    "description": "Skin reaction to medications or drugs",
+    "ask_skin_type": true,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "rash_onset", "label": "Rash appeared after starting new medication", "type": "checkbox"},
+      {"name": "widespread_distribution", "label": "Widespread distribution on body", "type": "checkbox"},
+      {"name": "symmetric_pattern", "label": "Symmetric pattern", "type": "checkbox"},
+      {"name": "itching", "label": "Itching", "type": "checkbox"},
+      {"name": "fever", "label": "Associated fever", "type": "checkbox"},
+      {"name": "systemic_symptoms", "label": "Systemic symptoms (joint pain, lymph node swelling)", "type": "checkbox"},
+      {"name": "medication_list", "label": "Recent medications started", "type": "text", "placeholder": "List any new medications in past 4 weeks"},
+      {"name": "days_after_medication", "label": "Days after starting medication", "type": "slider", "min": 1, "max": 28}
+    ]
+  },
+  "Bullous": {
+    "description": "Conditions characterized by fluid-filled blisters",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "fluid_filled_blisters", "label": "Fluid-filled blisters (bullae > 1cm)", "type": "checkbox"},
+      {"name": "small_blisters", "label": "Small blisters (vesicles < 1cm)", "type": "checkbox"},
+      {"name": "erosions", "label": "Erosions after blisters rupture", "type": "checkbox"},
+      {"name": "intact_bullae", "label": "Some blisters remain intact", "type": "checkbox"},
+      {"name": "itching_burning", "label": "Itching or burning", "type": "checkbox"},
+      {"name": "mucosal_involvement", "label": "Oral or mucosal involvement", "type": "checkbox"},
+      {"name": "widespread", "label": "Widespread distribution", "type": "checkbox"},
+      {"name": "type_suspected", "label": "Type (if known)", "type": "radio", "options": ["Bullous pemphigoid", "Pemphigus", "Dermatitis herpetiformis", "Unknown"]}
+    ]
+  },
+  "Hailey-Hailey Disease": {
+    "description": "A genetic blistering disorder of the epidermis",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "recurrent_blisters", "label": "Recurrent blisters and erosions", "type": "checkbox"},
+      {"name": "hyperhidrosis", "label": "Excessive sweating (hyperhidrosis)", "type": "checkbox"},
+      {"name": "flexural_areas", "label": "Lesions in skin folds (armpits, groin, neck)", "type": "checkbox"},
+      {"name": "itching_burning", "label": "Itching or burning", "type": "checkbox"},
+      {"name": "secondary_infection", "label": "Secondary bacterial infection", "type": "checkbox"},
+      {"name": "flare_triggers", "label": "Known triggers", "type": "text", "placeholder": "e.g., heat, sweating, friction"},
+      {"name": "family_history_hh", "label": "Family history of Hailey-Hailey", "type": "checkbox"},
+      {"name": "age_of_onset", "label": "Age when symptoms started", "type": "slider", "min": 5, "max": 60, "unit": "years"}
+    ]
+  },
+  "Infestations Bites": {
+    "description": "Skin reactions from insect bites or infestations",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "multiple_bites", "label": "Multiple bite marks or lesions", "type": "checkbox"},
+      {"name": "itching_intense", "label": "Intense itching", "type": "checkbox"},
+      {"name": "linear_pattern", "label": "Linear or clustered pattern (bed bugs, chiggers)", "type": "checkbox"},
+      {"name": "burrows", "label": "Visible burrows (scabies)", "type": "checkbox"},
+      {"name": "pustules_crusts", "label": "Pustules or crusted lesions from scratching", "type": "checkbox"},
+      {"name": "location_exposed", "label": "Located on exposed areas", "type": "checkbox"},
+      {"name": "type_infestation", "label": "Suspected type", "type": "radio", "options": ["Bed bugs", "Scabies", "Chiggers/Mites", "Lice", "Mosquito bites", "Unknown"]},
+      {"name": "exposure_source", "label": "Possible exposure source", "type": "text", "placeholder": "e.g., travel, bedding, pets"}
+    ]
+  },
+  "Larva Migrans": {
+    "description": "Skin infection from hookworm or other larvae",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "linear_track", "label": "Linear track or line moving across skin", "type": "checkbox"},
+      {"name": "intense_itching", "label": "Intense itching", "type": "checkbox"},
+      {"name": "raised_tunnel", "label": "Raised tunnel-like appearance", "type": "checkbox"},
+      {"name": "blisters_pustules", "label": "Blisters or pustules along the track", "type": "checkbox"},
+      {"name": "erythematous", "label": "Red, inflamed appearance", "type": "checkbox"},
+      {"name": "location_feet_legs", "label": "Primarily on feet, legs, or buttocks", "type": "checkbox"},
+      {"name": "exposure_activity", "label": "Exposure activity", "type": "text", "placeholder": "e.g., beach, sandpit, warm sandy areas"},
+      {"name": "duration_weeks", "label": "How long has the track been progressing?", "type": "slider", "min": 1, "max": 8, "unit": "weeks"}
+    ]
+  },
+  "Leprosy": {
+    "description": "A bacterial infection caused by Mycobacterium leprae",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "hypopigmented_patches", "label": "Hypopigmented or erythematous patches", "type": "checkbox"},
+      {"name": "numbness", "label": "Numbness or reduced sensation in patches", "type": "checkbox"},
+      {"name": "nerve_involvement", "label": "Thickened nerves or nerve pain", "type": "checkbox"},
+      {"name": "nodules", "label": "Painful nodules", "type": "checkbox"},
+      {"name": "alopecia", "label": "Hair loss", "type": "checkbox"},
+      {"name": "eye_involvement", "label": "Eye involvement (vision changes)", "type": "checkbox"},
+      {"name": "type_leprosy", "label": "Type (if known)", "type": "radio", "options": ["Tuberculoid", "Lepromatous", "Borderline", "Indeterminate"]},
+      {"name": "endemic_area", "label": "Exposure in endemic area?", "type": "checkbox"}
+    ]
+  },
+  "Lichen Disorder": {
+    "description": "Conditions with lichen-like appearance (lichen planus, sclerosus)",
+    "ask_skin_type": false,
+    "ask_allergy_history": true,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "papules", "label": "Flat-topped papules", "type": "checkbox"},
+      {"name": "purple_color", "label": "Purple or violet color", "type": "checkbox"},
+      {"name": "lacy_pattern", "label": "Lacy, reticular pattern", "type": "checkbox"},
+      {"name": "itching_burning", "label": "Intense itching or burning", "type": "checkbox"},
+      {"name": "white_patches", "label": "White patches or atrophy (lichen sclerosus)", "type": "checkbox"},
+      {"name": "oral_involvement", "label": "Oral involvement", "type": "checkbox"},
+      {"name": "genital_involvement", "label": "Genital involvement", "type": "checkbox"},
+      {"name": "type_lichen", "label": "Type (if known)", "type": "radio", "options": ["Lichen planus", "Lichen sclerosus", "Unknown"]}
+    ]
+  },
+  "Molluscum Contagiosum": {
+    "description": "A viral skin infection causing pearly, umbilicated lesions",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "pearly_lesions", "label": "Pearly, flesh-colored papules", "type": "checkbox"},
+      {"name": "umbilication", "label": "Central dimple (umbilication)", "type": "checkbox"},
+      {"name": "clusters", "label": "Appearing in clusters", "type": "checkbox"},
+      {"name": "itching", "label": "Mild itching", "type": "checkbox"},
+      {"name": "contagious_aware", "label": "Aware this is contagious?", "type": "checkbox"},
+      {"name": "number_lesions", "label": "Number of lesions", "type": "slider", "min": 1, "max": 100},
+      {"name": "duration_weeks", "label": "Duration", "type": "slider", "min": 1, "max": 52, "unit": "weeks"},
+      {"name": "immune_status", "label": "Immunocompromised?", "type": "checkbox"}
+    ]
+  },
+  "Nevus": {
+    "description": "Congenital or acquired nevi (birthmarks or moles)",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "present_since_birth", "label": "Present since birth or childhood", "type": "checkbox"},
+      {"name": "stable", "label": "Stable and not changing", "type": "checkbox"},
+      {"name": "flat_raised", "label": "Appearance", "type": "radio", "options": ["Flat", "Raised", "Hairy", "Mixed"]},
+      {"name": "size_cm", "label": "Approximate size", "type": "slider", "min": 0.5, "max": 10, "unit": "cm"},
+      {"name": "color", "label": "Color", "type": "radio", "options": ["Brown", "Black", "Blue", "Pink", "Skin-colored"]},
+      {"name": "cosmetic_concern", "label": "Cosmetic concern?", "type": "checkbox"},
+      {"name": "family_history", "label": "Family history of nevi", "type": "checkbox"}
+    ]
+  },
+  "Pityriasis Rosea": {
+    "description": "An acute viral-like inflammatory condition with herald patch",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "herald_patch", "label": "Initial single patch (herald patch)", "type": "checkbox"},
+      {"name": "secondary_eruption", "label": "Secondary eruption over trunk and limbs", "type": "checkbox"},
+      {"name": "christmas_tree_pattern", "label": "Christmas tree pattern (along skin cleavage)", "type": "checkbox"},
+      {"name": "scaly_patches", "label": "Scaly, pink-red patches", "type": "checkbox"},
+      {"name": "itching", "label": "Itching", "type": "checkbox"},
+      {"name": "prodromal_symptoms", "label": "Preceding symptoms (fever, fatigue, malaise)", "type": "checkbox"},
+      {"name": "duration_weeks", "label": "Duration of rash", "type": "slider", "min": 1, "max": 12, "unit": "weeks"},
+      {"name": "spreading", "label": "Currently spreading?", "type": "checkbox"}
+    ]
+  },
+  "Sun Sunlight Damage": {
+    "description": "Cumulative skin damage from sun exposure",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "photodamage_signs", "label": "Signs of photodamage (wrinkles, age spots)", "type": "checkbox"},
+      {"name": "solar_lentigines", "label": "Solar lentigines (age spots)", "type": "checkbox"},
+      {"name": "leathery_skin", "label": "Leathery, weathered appearance", "type": "checkbox"},
+      {"name": "telangiectasia", "label": "Visible blood vessels", "type": "checkbox"},
+      {"name": "rough_texture", "label": "Rough texture", "type": "checkbox"},
+      {"name": "cumulative_exposure", "label": "History of cumulative sun exposure", "type": "checkbox"},
+      {"name": "sunburn_history", "label": "History of severe sunburns", "type": "checkbox"},
+      {"name": "years_exposure", "label": "Years of significant sun exposure", "type": "slider", "min": 0, "max": 60, "unit": "years"}
+    ]
+  },
+  "Vascular Tumors or Lesion": {
+    "description": "Benign vascular proliferations (hemangiomas, angiomas)",
+    "ask_skin_type": false,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "red_purple_color", "label": "Red, purple, or dark color", "type": "checkbox"},
+      {"name": "blanching", "label": "Blanches with pressure", "type": "checkbox"},
+      {"name": "raised_nodule", "label": "Raised nodule or plaque", "type": "checkbox"},
+      {"name": "bleeding", "label": "Bleeds or oozes easily", "type": "checkbox"},
+      {"name": "congenital", "label": "Present since birth or early childhood", "type": "checkbox"},
+      {"name": "location_extremity", "label": "Located on extremities or face", "type": "checkbox"},
+      {"name": "size_mm", "label": "Approximate size", "type": "slider", "min": 5, "max": 100, "unit": "mm"},
+      {"name": "growing", "label": "Growing or stable?", "type": "radio", "options": ["Stable", "Slowly growing", "Rapidly growing"]}
+    ]
+  },
+  "Benign tumors": {
+    "description": "Non-cancerous skin growths",
+    "ask_skin_type": true,
+    "ask_allergy_history": false,
+    "ask_symptoms": true,
+    "ask_location": false,
+    "symptoms": [
+      {"name": "raised_growth", "label": "Raised, dome-shaped growth", "type": "checkbox"},
+      {"name": "flesh_colored", "label": "Flesh-colored or slightly pigmented", "type": "checkbox"},
+      {"name": "smooth_surface", "label": "Smooth surface", "type": "checkbox"},
+      {"name": "stable", "label": "Stable and not changing", "type": "checkbox"},
+      {"name": "cosmetic_concern", "label": "Cosmetic concern?", "type": "checkbox"},
+      {"name": "size_mm", "label": "Approximate size", "type": "slider", "min": 5, "max": 50, "unit": "mm"},
+      {"name": "symptoms", "label": "Associated symptoms (itching, pain)?", "type": "text", "placeholder": "Describe any symptoms"}
+    ]
+  }
+}
